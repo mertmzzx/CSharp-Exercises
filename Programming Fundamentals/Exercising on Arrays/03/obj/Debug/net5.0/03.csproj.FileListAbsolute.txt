@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Exercising on Arrays\03\bin\Debug\net5.0\03.exe
+C:\Users\Mert\source\repos\Exercising on Arrays\03\bin\Debug\net5.0\03.deps.json
+C:\Users\Mert\source\repos\Exercising on Arrays\03\bin\Debug\net5.0\03.runtimeconfig.json
+C:\Users\Mert\source\repos\Exercising on Arrays\03\bin\Debug\net5.0\03.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Exercising on Arrays\03\bin\Debug\net5.0\03.dll
+C:\Users\Mert\source\repos\Exercising on Arrays\03\bin\Debug\net5.0\ref\03.dll
+C:\Users\Mert\source\repos\Exercising on Arrays\03\bin\Debug\net5.0\03.pdb
+C:\Users\Mert\source\repos\Exercising on Arrays\03\obj\Debug\net5.0\03.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Exercising on Arrays\03\obj\Debug\net5.0\03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Exercising on Arrays\03\obj\Debug\net5.0\03.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Exercising on Arrays\03\obj\Debug\net5.0\03.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Exercising on Arrays\03\obj\Debug\net5.0\03.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Exercising on Arrays\03\obj\Debug\net5.0\03.dll
+C:\Users\Mert\source\repos\Exercising on Arrays\03\obj\Debug\net5.0\ref\03.dll
+C:\Users\Mert\source\repos\Exercising on Arrays\03\obj\Debug\net5.0\03.pdb
+C:\Users\Mert\source\repos\Exercising on Arrays\03\obj\Debug\net5.0\03.genruntimeconfig.cache

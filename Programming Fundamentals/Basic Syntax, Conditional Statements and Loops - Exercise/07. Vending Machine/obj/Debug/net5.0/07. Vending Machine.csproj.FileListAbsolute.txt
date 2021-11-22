@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.exe
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.deps.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.runtimeconfig.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\net5.0\ref\07. Vending Machine.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\ref\07. Vending Machine.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.genruntimeconfig.cache

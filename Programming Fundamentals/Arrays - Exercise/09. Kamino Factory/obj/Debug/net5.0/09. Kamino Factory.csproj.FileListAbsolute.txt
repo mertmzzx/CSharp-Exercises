@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Arrays - Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.exe
+C:\Users\Mert\source\repos\Arrays - Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.deps.json
+C:\Users\Mert\source\repos\Arrays - Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.runtimeconfig.json
+C:\Users\Mert\source\repos\Arrays - Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Arrays - Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.dll
+C:\Users\Mert\source\repos\Arrays - Exercise\09. Kamino Factory\bin\Debug\net5.0\ref\09. Kamino Factory.dll
+C:\Users\Mert\source\repos\Arrays - Exercise\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.pdb
+C:\Users\Mert\source\repos\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.dll
+C:\Users\Mert\source\repos\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\ref\09. Kamino Factory.dll
+C:\Users\Mert\source\repos\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.pdb
+C:\Users\Mert\source\repos\Arrays - Exercise\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.genruntimeconfig.cache

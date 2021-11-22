@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\bin\Debug\net5.0\7. Theatre Promotion.exe
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\bin\Debug\net5.0\7. Theatre Promotion.deps.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\bin\Debug\net5.0\7. Theatre Promotion.runtimeconfig.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\bin\Debug\net5.0\7. Theatre Promotion.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\bin\Debug\net5.0\7. Theatre Promotion.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\bin\Debug\net5.0\ref\7. Theatre Promotion.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\bin\Debug\net5.0\7. Theatre Promotion.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\obj\Debug\net5.0\7. Theatre Promotion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\obj\Debug\net5.0\7. Theatre Promotion.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\obj\Debug\net5.0\7. Theatre Promotion.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\obj\Debug\net5.0\7. Theatre Promotion.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\obj\Debug\net5.0\7. Theatre Promotion.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\obj\Debug\net5.0\ref\7. Theatre Promotion.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\obj\Debug\net5.0\7. Theatre Promotion.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\obj\Debug\net5.0\7. Theatre Promotion.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Methods - Lab\07. Repeat String\bin\Debug\net5.0\07. Repeat String.exe
+C:\Users\Mert\source\repos\Methods - Lab\07. Repeat String\bin\Debug\net5.0\07. Repeat String.deps.json
+C:\Users\Mert\source\repos\Methods - Lab\07. Repeat String\bin\Debug\net5.0\07. Repeat String.runtimeconfig.json
+C:\Users\Mert\source\repos\Methods - Lab\07. Repeat String\bin\Debug\net5.0\07. Repeat String.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Methods - Lab\07. Repeat String\bin\Debug\net5.0\07. Repeat String.dll
+C:\Users\Mert\source\repos\Methods - Lab\07. Repeat String\bin\Debug\net5.0\ref\07. Repeat String.dll
+C:\Users\Mert\source\repos\Methods - Lab\07. Repeat String\bin\Debug\net5.0\07. Repeat String.pdb
+C:\Users\Mert\source\repos\Methods - Lab\07. Repeat String\obj\Debug\net5.0\07. Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Methods - Lab\07. Repeat String\obj\Debug\net5.0\07. Repeat String.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Methods - Lab\07. Repeat String\obj\Debug\net5.0\07. Repeat String.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Methods - Lab\07. Repeat String\obj\Debug\net5.0\07. Repeat String.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Methods - Lab\07. Repeat String\obj\Debug\net5.0\07. Repeat String.dll
+C:\Users\Mert\source\repos\Methods - Lab\07. Repeat String\obj\Debug\net5.0\ref\07. Repeat String.dll
+C:\Users\Mert\source\repos\Methods - Lab\07. Repeat String\obj\Debug\net5.0\07. Repeat String.pdb
+C:\Users\Mert\source\repos\Methods - Lab\07. Repeat String\obj\Debug\net5.0\07. Repeat String.genruntimeconfig.cache

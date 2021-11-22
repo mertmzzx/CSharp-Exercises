@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.exe
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.deps.json
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.runtimeconfig.json
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\ref\05. Print Part Of ASCII Table.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.pdb
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\ref\05. Print Part Of ASCII Table.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.pdb
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.genruntimeconfig.cache

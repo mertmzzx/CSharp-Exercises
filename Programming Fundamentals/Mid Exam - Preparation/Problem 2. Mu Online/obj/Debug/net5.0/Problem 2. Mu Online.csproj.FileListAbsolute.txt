@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Mid Exam - Preparation\Problem 2. Mu Online\bin\Debug\net5.0\Problem 2. Mu Online.exe
+C:\Users\Mert\source\repos\Mid Exam - Preparation\Problem 2. Mu Online\bin\Debug\net5.0\Problem 2. Mu Online.deps.json
+C:\Users\Mert\source\repos\Mid Exam - Preparation\Problem 2. Mu Online\bin\Debug\net5.0\Problem 2. Mu Online.runtimeconfig.json
+C:\Users\Mert\source\repos\Mid Exam - Preparation\Problem 2. Mu Online\bin\Debug\net5.0\Problem 2. Mu Online.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Mid Exam - Preparation\Problem 2. Mu Online\bin\Debug\net5.0\Problem 2. Mu Online.dll
+C:\Users\Mert\source\repos\Mid Exam - Preparation\Problem 2. Mu Online\bin\Debug\net5.0\ref\Problem 2. Mu Online.dll
+C:\Users\Mert\source\repos\Mid Exam - Preparation\Problem 2. Mu Online\bin\Debug\net5.0\Problem 2. Mu Online.pdb
+C:\Users\Mert\source\repos\Mid Exam - Preparation\Problem 2. Mu Online\obj\Debug\net5.0\Problem 2. Mu Online.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Mid Exam - Preparation\Problem 2. Mu Online\obj\Debug\net5.0\Problem 2. Mu Online.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Mid Exam - Preparation\Problem 2. Mu Online\obj\Debug\net5.0\Problem 2. Mu Online.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Mid Exam - Preparation\Problem 2. Mu Online\obj\Debug\net5.0\Problem 2. Mu Online.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Mid Exam - Preparation\Problem 2. Mu Online\obj\Debug\net5.0\Problem 2. Mu Online.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Mid Exam - Preparation\Problem 2. Mu Online\obj\Debug\net5.0\Problem 2. Mu Online.dll
+C:\Users\Mert\source\repos\Mid Exam - Preparation\Problem 2. Mu Online\obj\Debug\net5.0\ref\Problem 2. Mu Online.dll
+C:\Users\Mert\source\repos\Mid Exam - Preparation\Problem 2. Mu Online\obj\Debug\net5.0\Problem 2. Mu Online.pdb
+C:\Users\Mert\source\repos\Mid Exam - Preparation\Problem 2. Mu Online\obj\Debug\net5.0\Problem 2. Mu Online.genruntimeconfig.cache

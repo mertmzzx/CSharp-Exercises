@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.exe
+C:\Users\Mert\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.deps.json
+C:\Users\Mert\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.runtimeconfig.json
+C:\Users\Mert\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.dll
+C:\Users\Mert\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\net5.0\ref\02. Gauss' Trick.dll
+C:\Users\Mert\source\repos\Lists - Lab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.pdb
+C:\Users\Mert\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.dll
+C:\Users\Mert\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\ref\02. Gauss' Trick.dll
+C:\Users\Mert\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.pdb
+C:\Users\Mert\source\repos\Lists - Lab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.genruntimeconfig.cache

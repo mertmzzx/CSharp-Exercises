@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\9. Sum of Odd Numbers\obj\Debug\net5.0\9. Sum of Odd Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\9. Sum of Odd Numbers\obj\Debug\net5.0\9. Sum of Odd Numbers.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\9. Sum of Odd Numbers\obj\Debug\net5.0\9. Sum of Odd Numbers.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\9. Sum of Odd Numbers\obj\Debug\net5.0\9. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\9. Sum of Odd Numbers\bin\Debug\net5.0\9. Sum of Odd Numbers.exe
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\9. Sum of Odd Numbers\bin\Debug\net5.0\9. Sum of Odd Numbers.deps.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\9. Sum of Odd Numbers\bin\Debug\net5.0\9. Sum of Odd Numbers.runtimeconfig.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\9. Sum of Odd Numbers\bin\Debug\net5.0\9. Sum of Odd Numbers.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\9. Sum of Odd Numbers\bin\Debug\net5.0\9. Sum of Odd Numbers.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\9. Sum of Odd Numbers\bin\Debug\net5.0\ref\9. Sum of Odd Numbers.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\9. Sum of Odd Numbers\bin\Debug\net5.0\9. Sum of Odd Numbers.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\9. Sum of Odd Numbers\obj\Debug\net5.0\9. Sum of Odd Numbers.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\9. Sum of Odd Numbers\obj\Debug\net5.0\ref\9. Sum of Odd Numbers.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\9. Sum of Odd Numbers\obj\Debug\net5.0\9. Sum of Odd Numbers.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\9. Sum of Odd Numbers\obj\Debug\net5.0\9. Sum of Odd Numbers.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.exe
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.deps.json
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.runtimeconfig.json
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net5.0\ref\12. Refactor Special Numbers.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.pdb
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net5.0\ref\12. Refactor Special Numbers.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.pdb
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.exe
+C:\Users\Mert\source\repos\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.deps.json
+C:\Users\Mert\source\repos\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.runtimeconfig.json
+C:\Users\Mert\source\repos\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.dll
+C:\Users\Mert\source\repos\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\ref\09. Greater of Two Values.dll
+C:\Users\Mert\source\repos\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.pdb
+C:\Users\Mert\source\repos\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.dll
+C:\Users\Mert\source\repos\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\ref\09. Greater of Two Values.dll
+C:\Users\Mert\source\repos\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.pdb
+C:\Users\Mert\source\repos\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.genruntimeconfig.cache

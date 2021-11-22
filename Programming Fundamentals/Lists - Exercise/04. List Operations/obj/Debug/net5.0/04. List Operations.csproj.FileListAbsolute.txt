@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.exe
+C:\Users\Mert\source\repos\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.deps.json
+C:\Users\Mert\source\repos\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.runtimeconfig.json
+C:\Users\Mert\source\repos\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.dll
+C:\Users\Mert\source\repos\Lists - Exercise\04. List Operations\bin\Debug\net5.0\ref\04. List Operations.dll
+C:\Users\Mert\source\repos\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.pdb
+C:\Users\Mert\source\repos\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.dll
+C:\Users\Mert\source\repos\Lists - Exercise\04. List Operations\obj\Debug\net5.0\ref\04. List Operations.dll
+C:\Users\Mert\source\repos\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.pdb
+C:\Users\Mert\source\repos\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.genruntimeconfig.cache

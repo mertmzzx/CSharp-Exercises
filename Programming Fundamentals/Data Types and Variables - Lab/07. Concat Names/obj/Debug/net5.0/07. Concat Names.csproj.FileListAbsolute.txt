@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\net5.0\07. Concat Names.exe
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\net5.0\07. Concat Names.deps.json
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\net5.0\07. Concat Names.runtimeconfig.json
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\net5.0\07. Concat Names.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\net5.0\07. Concat Names.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\net5.0\ref\07. Concat Names.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\net5.0\07. Concat Names.pdb
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net5.0\07. Concat Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net5.0\07. Concat Names.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net5.0\07. Concat Names.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net5.0\07. Concat Names.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net5.0\07. Concat Names.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net5.0\ref\07. Concat Names.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net5.0\07. Concat Names.pdb
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net5.0\07. Concat Names.genruntimeconfig.cache
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net5.0\07. Concat Names.csprojAssemblyReference.cache

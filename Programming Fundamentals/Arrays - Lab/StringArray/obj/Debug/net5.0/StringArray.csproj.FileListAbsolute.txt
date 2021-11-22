@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Arrays - Lab\StringArray\bin\Debug\net5.0\StringArray.exe
+C:\Users\Mert\source\repos\Arrays - Lab\StringArray\bin\Debug\net5.0\StringArray.deps.json
+C:\Users\Mert\source\repos\Arrays - Lab\StringArray\bin\Debug\net5.0\StringArray.runtimeconfig.json
+C:\Users\Mert\source\repos\Arrays - Lab\StringArray\bin\Debug\net5.0\StringArray.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Arrays - Lab\StringArray\bin\Debug\net5.0\StringArray.dll
+C:\Users\Mert\source\repos\Arrays - Lab\StringArray\bin\Debug\net5.0\ref\StringArray.dll
+C:\Users\Mert\source\repos\Arrays - Lab\StringArray\bin\Debug\net5.0\StringArray.pdb
+C:\Users\Mert\source\repos\Arrays - Lab\StringArray\obj\Debug\net5.0\StringArray.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Arrays - Lab\StringArray\obj\Debug\net5.0\StringArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Arrays - Lab\StringArray\obj\Debug\net5.0\StringArray.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Arrays - Lab\StringArray\obj\Debug\net5.0\StringArray.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Arrays - Lab\StringArray\obj\Debug\net5.0\StringArray.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Arrays - Lab\StringArray\obj\Debug\net5.0\StringArray.dll
+C:\Users\Mert\source\repos\Arrays - Lab\StringArray\obj\Debug\net5.0\ref\StringArray.dll
+C:\Users\Mert\source\repos\Arrays - Lab\StringArray\obj\Debug\net5.0\StringArray.pdb
+C:\Users\Mert\source\repos\Arrays - Lab\StringArray\obj\Debug\net5.0\StringArray.genruntimeconfig.cache

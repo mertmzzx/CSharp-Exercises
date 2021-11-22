@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\net5.0\05. Login.exe
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\net5.0\05. Login.deps.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\net5.0\05. Login.runtimeconfig.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\net5.0\05. Login.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\net5.0\05. Login.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\net5.0\ref\05. Login.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\net5.0\05. Login.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net5.0\05. Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net5.0\05. Login.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net5.0\05. Login.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net5.0\05. Login.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net5.0\05. Login.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net5.0\ref\05. Login.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net5.0\05. Login.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\net5.0\05. Login.genruntimeconfig.cache

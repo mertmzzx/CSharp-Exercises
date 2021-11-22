@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Lists - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.exe
+C:\Users\Mert\source\repos\Lists - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.deps.json
+C:\Users\Mert\source\repos\Lists - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.runtimeconfig.json
+C:\Users\Mert\source\repos\Lists - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Lists - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.dll
+C:\Users\Mert\source\repos\Lists - Exercise\03. House Party\bin\Debug\net5.0\ref\03. House Party.dll
+C:\Users\Mert\source\repos\Lists - Exercise\03. House Party\bin\Debug\net5.0\03. House Party.pdb
+C:\Users\Mert\source\repos\Lists - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Lists - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Lists - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Lists - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Lists - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Lists - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.dll
+C:\Users\Mert\source\repos\Lists - Exercise\03. House Party\obj\Debug\net5.0\ref\03. House Party.dll
+C:\Users\Mert\source\repos\Lists - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.pdb
+C:\Users\Mert\source\repos\Lists - Exercise\03. House Party\obj\Debug\net5.0\03. House Party.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.exe
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.deps.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.runtimeconfig.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\ref\10. Multiplication Table.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\ref\10. Multiplication Table.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Arrays - Lab\Foreach\bin\Debug\net5.0\Foreach.exe
+C:\Users\Mert\source\repos\Arrays - Lab\Foreach\bin\Debug\net5.0\Foreach.deps.json
+C:\Users\Mert\source\repos\Arrays - Lab\Foreach\bin\Debug\net5.0\Foreach.runtimeconfig.json
+C:\Users\Mert\source\repos\Arrays - Lab\Foreach\bin\Debug\net5.0\Foreach.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Arrays - Lab\Foreach\bin\Debug\net5.0\Foreach.dll
+C:\Users\Mert\source\repos\Arrays - Lab\Foreach\bin\Debug\net5.0\ref\Foreach.dll
+C:\Users\Mert\source\repos\Arrays - Lab\Foreach\bin\Debug\net5.0\Foreach.pdb
+C:\Users\Mert\source\repos\Arrays - Lab\Foreach\obj\Debug\net5.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Arrays - Lab\Foreach\obj\Debug\net5.0\Foreach.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Arrays - Lab\Foreach\obj\Debug\net5.0\Foreach.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Arrays - Lab\Foreach\obj\Debug\net5.0\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Arrays - Lab\Foreach\obj\Debug\net5.0\Foreach.dll
+C:\Users\Mert\source\repos\Arrays - Lab\Foreach\obj\Debug\net5.0\ref\Foreach.dll
+C:\Users\Mert\source\repos\Arrays - Lab\Foreach\obj\Debug\net5.0\Foreach.pdb
+C:\Users\Mert\source\repos\Arrays - Lab\Foreach\obj\Debug\net5.0\Foreach.genruntimeconfig.cache

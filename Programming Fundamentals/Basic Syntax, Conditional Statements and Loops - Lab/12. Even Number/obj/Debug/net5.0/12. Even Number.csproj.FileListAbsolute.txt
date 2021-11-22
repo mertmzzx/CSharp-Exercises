@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\net5.0\12. Even Number.exe
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\net5.0\12. Even Number.deps.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\net5.0\12. Even Number.runtimeconfig.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\net5.0\12. Even Number.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\net5.0\12. Even Number.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\net5.0\ref\12. Even Number.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\net5.0\12. Even Number.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\net5.0\12. Even Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\net5.0\12. Even Number.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\net5.0\12. Even Number.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\net5.0\12. Even Number.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\net5.0\12. Even Number.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\net5.0\ref\12. Even Number.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\net5.0\12. Even Number.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\net5.0\12. Even Number.genruntimeconfig.cache

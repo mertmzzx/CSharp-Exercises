@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.exe
+C:\Users\Mert\source\repos\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.deps.json
+C:\Users\Mert\source\repos\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.runtimeconfig.json
+C:\Users\Mert\source\repos\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.dll
+C:\Users\Mert\source\repos\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net5.0\ref\04. Reverse Array of Strings.dll
+C:\Users\Mert\source\repos\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.pdb
+C:\Users\Mert\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.dll
+C:\Users\Mert\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net5.0\ref\04. Reverse Array of Strings.dll
+C:\Users\Mert\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.pdb
+C:\Users\Mert\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.exe
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.deps.json
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.runtimeconfig.json
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\ref\10. Lower or Upper.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.pdb
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\ref\10. Lower or Upper.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.pdb
+C:\Users\Mert\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.genruntimeconfig.cache

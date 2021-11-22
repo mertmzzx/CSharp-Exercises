@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Student Information\bin\Debug\net5.0\Student Information.exe
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Student Information\bin\Debug\net5.0\Student Information.deps.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Student Information\bin\Debug\net5.0\Student Information.runtimeconfig.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Student Information\bin\Debug\net5.0\Student Information.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Student Information\bin\Debug\net5.0\Student Information.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Student Information\bin\Debug\net5.0\ref\Student Information.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Student Information\bin\Debug\net5.0\Student Information.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Student Information\obj\Debug\net5.0\Student Information.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Student Information\obj\Debug\net5.0\Student Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Student Information\obj\Debug\net5.0\Student Information.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Student Information\obj\Debug\net5.0\Student Information.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Student Information\obj\Debug\net5.0\Student Information.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Student Information\obj\Debug\net5.0\Student Information.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Student Information\obj\Debug\net5.0\ref\Student Information.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Student Information\obj\Debug\net5.0\Student Information.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Student Information\obj\Debug\net5.0\Student Information.genruntimeconfig.cache

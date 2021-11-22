@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.exe
+C:\Users\Mert\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.deps.json
+C:\Users\Mert\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.runtimeconfig.json
+C:\Users\Mert\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.dll
+C:\Users\Mert\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\ref\06. Courses.dll
+C:\Users\Mert\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.pdb
+C:\Users\Mert\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.dll
+C:\Users\Mert\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\ref\06. Courses.dll
+C:\Users\Mert\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.pdb
+C:\Users\Mert\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.genruntimeconfig.cache

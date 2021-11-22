@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\4. Back In 30 Minutes\bin\Debug\net5.0\4. Back In 30 Minutes.exe
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\4. Back In 30 Minutes\bin\Debug\net5.0\4. Back In 30 Minutes.deps.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\4. Back In 30 Minutes\bin\Debug\net5.0\4. Back In 30 Minutes.runtimeconfig.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\4. Back In 30 Minutes\bin\Debug\net5.0\4. Back In 30 Minutes.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\4. Back In 30 Minutes\bin\Debug\net5.0\4. Back In 30 Minutes.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\4. Back In 30 Minutes\bin\Debug\net5.0\ref\4. Back In 30 Minutes.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\4. Back In 30 Minutes\bin\Debug\net5.0\4. Back In 30 Minutes.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\4. Back In 30 Minutes\obj\Debug\net5.0\4. Back In 30 Minutes.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\4. Back In 30 Minutes\obj\Debug\net5.0\4. Back In 30 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\4. Back In 30 Minutes\obj\Debug\net5.0\4. Back In 30 Minutes.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\4. Back In 30 Minutes\obj\Debug\net5.0\4. Back In 30 Minutes.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\4. Back In 30 Minutes\obj\Debug\net5.0\4. Back In 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\4. Back In 30 Minutes\obj\Debug\net5.0\4. Back In 30 Minutes.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\4. Back In 30 Minutes\obj\Debug\net5.0\ref\4. Back In 30 Minutes.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\4. Back In 30 Minutes\obj\Debug\net5.0\4. Back In 30 Minutes.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\4. Back In 30 Minutes\obj\Debug\net5.0\4. Back In 30 Minutes.genruntimeconfig.cache

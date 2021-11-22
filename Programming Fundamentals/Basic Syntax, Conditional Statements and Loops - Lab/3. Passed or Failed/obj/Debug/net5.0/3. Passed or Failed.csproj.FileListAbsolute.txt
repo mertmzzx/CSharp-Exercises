@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\3. Passed or Failed\bin\Debug\net5.0\3. Passed or Failed.exe
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\3. Passed or Failed\bin\Debug\net5.0\3. Passed or Failed.deps.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\3. Passed or Failed\bin\Debug\net5.0\3. Passed or Failed.runtimeconfig.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\3. Passed or Failed\bin\Debug\net5.0\3. Passed or Failed.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\3. Passed or Failed\bin\Debug\net5.0\3. Passed or Failed.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\3. Passed or Failed\bin\Debug\net5.0\ref\3. Passed or Failed.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\3. Passed or Failed\bin\Debug\net5.0\3. Passed or Failed.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\3. Passed or Failed\obj\Debug\net5.0\3. Passed or Failed.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\3. Passed or Failed\obj\Debug\net5.0\3. Passed or Failed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\3. Passed or Failed\obj\Debug\net5.0\3. Passed or Failed.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\3. Passed or Failed\obj\Debug\net5.0\3. Passed or Failed.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\3. Passed or Failed\obj\Debug\net5.0\3. Passed or Failed.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\3. Passed or Failed\obj\Debug\net5.0\3. Passed or Failed.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\3. Passed or Failed\obj\Debug\net5.0\ref\3. Passed or Failed.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\3. Passed or Failed\obj\Debug\net5.0\3. Passed or Failed.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\3. Passed or Failed\obj\Debug\net5.0\3. Passed or Failed.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.exe
+C:\Users\Mert\source\repos\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.deps.json
+C:\Users\Mert\source\repos\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.runtimeconfig.json
+C:\Users\Mert\source\repos\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.dll
+C:\Users\Mert\source\repos\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\ref\07. Equal Arrays.dll
+C:\Users\Mert\source\repos\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.pdb
+C:\Users\Mert\source\repos\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.dll
+C:\Users\Mert\source\repos\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\ref\07. Equal Arrays.dll
+C:\Users\Mert\source\repos\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.pdb
+C:\Users\Mert\source\repos\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.genruntimeconfig.cache

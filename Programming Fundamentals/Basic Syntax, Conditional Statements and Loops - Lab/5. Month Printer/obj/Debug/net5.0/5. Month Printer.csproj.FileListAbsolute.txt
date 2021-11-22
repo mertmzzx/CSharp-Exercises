@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\5. Month Printer\bin\Debug\net5.0\5. Month Printer.exe
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\5. Month Printer\bin\Debug\net5.0\5. Month Printer.deps.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\5. Month Printer\bin\Debug\net5.0\5. Month Printer.runtimeconfig.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\5. Month Printer\bin\Debug\net5.0\5. Month Printer.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\5. Month Printer\bin\Debug\net5.0\5. Month Printer.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\5. Month Printer\bin\Debug\net5.0\ref\5. Month Printer.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\5. Month Printer\bin\Debug\net5.0\5. Month Printer.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\5. Month Printer\obj\Debug\net5.0\5. Month Printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\5. Month Printer\obj\Debug\net5.0\5. Month Printer.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\5. Month Printer\obj\Debug\net5.0\5. Month Printer.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\5. Month Printer\obj\Debug\net5.0\5. Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\5. Month Printer\obj\Debug\net5.0\5. Month Printer.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\5. Month Printer\obj\Debug\net5.0\ref\5. Month Printer.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\5. Month Printer\obj\Debug\net5.0\5. Month Printer.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\5. Month Printer\obj\Debug\net5.0\5. Month Printer.genruntimeconfig.cache

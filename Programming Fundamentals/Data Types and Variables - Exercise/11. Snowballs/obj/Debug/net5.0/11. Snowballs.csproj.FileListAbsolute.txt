@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\net5.0\11. Snowballs.exe
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\net5.0\11. Snowballs.deps.json
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\net5.0\11. Snowballs.runtimeconfig.json
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\net5.0\11. Snowballs.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\net5.0\11. Snowballs.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\net5.0\ref\11. Snowballs.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\11. Snowballs\bin\Debug\net5.0\11. Snowballs.pdb
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\net5.0\11. Snowballs.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\net5.0\11. Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\net5.0\11. Snowballs.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\net5.0\11. Snowballs.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\net5.0\11. Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\net5.0\11. Snowballs.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\net5.0\ref\11. Snowballs.dll
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\net5.0\11. Snowballs.pdb
+C:\Users\Mert\source\repos\Data Types and Variables - Exercise\11. Snowballs\obj\Debug\net5.0\11. Snowballs.genruntimeconfig.cache

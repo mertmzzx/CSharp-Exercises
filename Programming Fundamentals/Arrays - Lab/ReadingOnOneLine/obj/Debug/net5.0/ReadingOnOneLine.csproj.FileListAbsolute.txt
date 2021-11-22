@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Arrays - Lab\ReadingOnOneLine\bin\Debug\net5.0\ReadingOnOneLine.exe
+C:\Users\Mert\source\repos\Arrays - Lab\ReadingOnOneLine\bin\Debug\net5.0\ReadingOnOneLine.deps.json
+C:\Users\Mert\source\repos\Arrays - Lab\ReadingOnOneLine\bin\Debug\net5.0\ReadingOnOneLine.runtimeconfig.json
+C:\Users\Mert\source\repos\Arrays - Lab\ReadingOnOneLine\bin\Debug\net5.0\ReadingOnOneLine.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Arrays - Lab\ReadingOnOneLine\bin\Debug\net5.0\ReadingOnOneLine.dll
+C:\Users\Mert\source\repos\Arrays - Lab\ReadingOnOneLine\bin\Debug\net5.0\ref\ReadingOnOneLine.dll
+C:\Users\Mert\source\repos\Arrays - Lab\ReadingOnOneLine\bin\Debug\net5.0\ReadingOnOneLine.pdb
+C:\Users\Mert\source\repos\Arrays - Lab\ReadingOnOneLine\obj\Debug\net5.0\ReadingOnOneLine.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Arrays - Lab\ReadingOnOneLine\obj\Debug\net5.0\ReadingOnOneLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Arrays - Lab\ReadingOnOneLine\obj\Debug\net5.0\ReadingOnOneLine.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Arrays - Lab\ReadingOnOneLine\obj\Debug\net5.0\ReadingOnOneLine.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Arrays - Lab\ReadingOnOneLine\obj\Debug\net5.0\ReadingOnOneLine.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Arrays - Lab\ReadingOnOneLine\obj\Debug\net5.0\ReadingOnOneLine.dll
+C:\Users\Mert\source\repos\Arrays - Lab\ReadingOnOneLine\obj\Debug\net5.0\ref\ReadingOnOneLine.dll
+C:\Users\Mert\source\repos\Arrays - Lab\ReadingOnOneLine\obj\Debug\net5.0\ReadingOnOneLine.pdb
+C:\Users\Mert\source\repos\Arrays - Lab\ReadingOnOneLine\obj\Debug\net5.0\ReadingOnOneLine.genruntimeconfig.cache

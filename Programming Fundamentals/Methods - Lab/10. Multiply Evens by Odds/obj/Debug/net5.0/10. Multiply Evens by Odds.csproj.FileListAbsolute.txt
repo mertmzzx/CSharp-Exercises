@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.exe
+C:\Users\Mert\source\repos\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.deps.json
+C:\Users\Mert\source\repos\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.runtimeconfig.json
+C:\Users\Mert\source\repos\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.dll
+C:\Users\Mert\source\repos\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net5.0\ref\10. Multiply Evens by Odds.dll
+C:\Users\Mert\source\repos\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.pdb
+C:\Users\Mert\source\repos\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.dll
+C:\Users\Mert\source\repos\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\ref\10. Multiply Evens by Odds.dll
+C:\Users\Mert\source\repos\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.pdb
+C:\Users\Mert\source\repos\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.genruntimeconfig.cache

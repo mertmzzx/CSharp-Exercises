@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.exe
+C:\Users\Mert\source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.deps.json
+C:\Users\Mert\source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.runtimeconfig.json
+C:\Users\Mert\source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.dll
+C:\Users\Mert\source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\ref\01. Smallest of Three Numbers.dll
+C:\Users\Mert\source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.pdb
+C:\Users\Mert\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.dll
+C:\Users\Mert\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\ref\01. Smallest of Three Numbers.dll
+C:\Users\Mert\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.pdb
+C:\Users\Mert\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\bin\Debug\net5.0\6. Foreign Languages.exe
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\bin\Debug\net5.0\6. Foreign Languages.deps.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\bin\Debug\net5.0\6. Foreign Languages.runtimeconfig.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\bin\Debug\net5.0\6. Foreign Languages.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\bin\Debug\net5.0\6. Foreign Languages.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\bin\Debug\net5.0\ref\6. Foreign Languages.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\bin\Debug\net5.0\6. Foreign Languages.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\obj\Debug\net5.0\6. Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\obj\Debug\net5.0\6. Foreign Languages.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\obj\Debug\net5.0\6. Foreign Languages.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\obj\Debug\net5.0\6. Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\obj\Debug\net5.0\6. Foreign Languages.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\obj\Debug\net5.0\ref\6. Foreign Languages.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\obj\Debug\net5.0\6. Foreign Languages.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\6. Foreign Languages\obj\Debug\net5.0\6. Foreign Languages.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.exe
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.deps.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.runtimeconfig.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\net5.0\ref\09. Padawan Equipment.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\net5.0\ref\09. Padawan Equipment.dll
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.pdb
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.genruntimeconfig.cache
+C:\Users\Mert\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.csprojAssemblyReference.cache
