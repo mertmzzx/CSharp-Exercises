@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\ConditionalStatementsAdvanced\11\obj\Debug\net5.0\11.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\ConditionalStatementsAdvanced\11\obj\Debug\net5.0\11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\ConditionalStatementsAdvanced\11\obj\Debug\net5.0\11.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\ConditionalStatementsAdvanced\11\obj\Debug\net5.0\11.AssemblyInfo.cs
+C:\Users\Mert\source\repos\ConditionalStatementsAdvanced\11\obj\Debug\net5.0\11.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\ConditionalStatementsAdvanced\11\bin\Debug\net5.0\11.exe
+C:\Users\Mert\source\repos\ConditionalStatementsAdvanced\11\bin\Debug\net5.0\11.deps.json
+C:\Users\Mert\source\repos\ConditionalStatementsAdvanced\11\bin\Debug\net5.0\11.runtimeconfig.json
+C:\Users\Mert\source\repos\ConditionalStatementsAdvanced\11\bin\Debug\net5.0\11.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\ConditionalStatementsAdvanced\11\bin\Debug\net5.0\11.dll
+C:\Users\Mert\source\repos\ConditionalStatementsAdvanced\11\bin\Debug\net5.0\ref\11.dll
+C:\Users\Mert\source\repos\ConditionalStatementsAdvanced\11\bin\Debug\net5.0\11.pdb
+C:\Users\Mert\source\repos\ConditionalStatementsAdvanced\11\obj\Debug\net5.0\11.dll
+C:\Users\Mert\source\repos\ConditionalStatementsAdvanced\11\obj\Debug\net5.0\ref\11.dll
+C:\Users\Mert\source\repos\ConditionalStatementsAdvanced\11\obj\Debug\net5.0\11.pdb
+C:\Users\Mert\source\repos\ConditionalStatementsAdvanced\11\obj\Debug\net5.0\11.genruntimeconfig.cache

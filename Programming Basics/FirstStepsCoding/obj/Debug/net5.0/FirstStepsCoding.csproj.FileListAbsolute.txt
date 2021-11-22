@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\FirstStepsCoding\bin\Debug\net5.0\FirstStepsCoding.exe
+C:\Users\Mert\source\repos\FirstStepsCoding\bin\Debug\net5.0\FirstStepsCoding.deps.json
+C:\Users\Mert\source\repos\FirstStepsCoding\bin\Debug\net5.0\FirstStepsCoding.runtimeconfig.json
+C:\Users\Mert\source\repos\FirstStepsCoding\bin\Debug\net5.0\FirstStepsCoding.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\FirstStepsCoding\bin\Debug\net5.0\FirstStepsCoding.dll
+C:\Users\Mert\source\repos\FirstStepsCoding\bin\Debug\net5.0\ref\FirstStepsCoding.dll
+C:\Users\Mert\source\repos\FirstStepsCoding\bin\Debug\net5.0\FirstStepsCoding.pdb
+C:\Users\Mert\source\repos\FirstStepsCoding\obj\Debug\net5.0\FirstStepsCoding.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\FirstStepsCoding\obj\Debug\net5.0\FirstStepsCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\FirstStepsCoding\obj\Debug\net5.0\FirstStepsCoding.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\FirstStepsCoding\obj\Debug\net5.0\FirstStepsCoding.AssemblyInfo.cs
+C:\Users\Mert\source\repos\FirstStepsCoding\obj\Debug\net5.0\FirstStepsCoding.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\FirstStepsCoding\obj\Debug\net5.0\FirstStepsCoding.dll
+C:\Users\Mert\source\repos\FirstStepsCoding\obj\Debug\net5.0\ref\FirstStepsCoding.dll
+C:\Users\Mert\source\repos\FirstStepsCoding\obj\Debug\net5.0\FirstStepsCoding.pdb
+C:\Users\Mert\source\repos\FirstStepsCoding\obj\Debug\net5.0\FirstStepsCoding.genruntimeconfig.cache

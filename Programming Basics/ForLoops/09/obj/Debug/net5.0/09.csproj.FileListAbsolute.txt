@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\ForLoops\09\bin\Debug\net5.0\09.exe
+C:\Users\Mert\source\repos\ForLoops\09\bin\Debug\net5.0\09.deps.json
+C:\Users\Mert\source\repos\ForLoops\09\bin\Debug\net5.0\09.runtimeconfig.json
+C:\Users\Mert\source\repos\ForLoops\09\bin\Debug\net5.0\09.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\ForLoops\09\bin\Debug\net5.0\09.dll
+C:\Users\Mert\source\repos\ForLoops\09\bin\Debug\net5.0\ref\09.dll
+C:\Users\Mert\source\repos\ForLoops\09\bin\Debug\net5.0\09.pdb
+C:\Users\Mert\source\repos\ForLoops\09\obj\Debug\net5.0\09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\ForLoops\09\obj\Debug\net5.0\09.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\ForLoops\09\obj\Debug\net5.0\09.AssemblyInfo.cs
+C:\Users\Mert\source\repos\ForLoops\09\obj\Debug\net5.0\09.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\ForLoops\09\obj\Debug\net5.0\09.dll
+C:\Users\Mert\source\repos\ForLoops\09\obj\Debug\net5.0\ref\09.dll
+C:\Users\Mert\source\repos\ForLoops\09\obj\Debug\net5.0\09.pdb
+C:\Users\Mert\source\repos\ForLoops\09\obj\Debug\net5.0\09.genruntimeconfig.cache

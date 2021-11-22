@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Hello SoftUni\bin\Debug\net5.0\Hello SoftUni.exe
+C:\Users\Mert\source\repos\Hello SoftUni\bin\Debug\net5.0\Hello SoftUni.deps.json
+C:\Users\Mert\source\repos\Hello SoftUni\bin\Debug\net5.0\Hello SoftUni.runtimeconfig.json
+C:\Users\Mert\source\repos\Hello SoftUni\bin\Debug\net5.0\Hello SoftUni.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Hello SoftUni\bin\Debug\net5.0\Hello SoftUni.dll
+C:\Users\Mert\source\repos\Hello SoftUni\bin\Debug\net5.0\ref\Hello SoftUni.dll
+C:\Users\Mert\source\repos\Hello SoftUni\bin\Debug\net5.0\Hello SoftUni.pdb
+C:\Users\Mert\source\repos\Hello SoftUni\obj\Debug\net5.0\Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Hello SoftUni\obj\Debug\net5.0\Hello SoftUni.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Hello SoftUni\obj\Debug\net5.0\Hello SoftUni.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Hello SoftUni\obj\Debug\net5.0\Hello SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Hello SoftUni\obj\Debug\net5.0\Hello SoftUni.dll
+C:\Users\Mert\source\repos\Hello SoftUni\obj\Debug\net5.0\ref\Hello SoftUni.dll
+C:\Users\Mert\source\repos\Hello SoftUni\obj\Debug\net5.0\Hello SoftUni.pdb
+C:\Users\Mert\source\repos\Hello SoftUni\obj\Debug\net5.0\Hello SoftUni.genruntimeconfig.cache
+C:\Users\Mert\source\repos\Hello SoftUni\obj\Debug\net5.0\Hello SoftUni.csprojAssemblyReference.cache

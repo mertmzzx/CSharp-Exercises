@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\WhileLoops\08\bin\Debug\net5.0\08.exe
+C:\Users\Mert\source\repos\WhileLoops\08\bin\Debug\net5.0\08.deps.json
+C:\Users\Mert\source\repos\WhileLoops\08\bin\Debug\net5.0\08.runtimeconfig.json
+C:\Users\Mert\source\repos\WhileLoops\08\bin\Debug\net5.0\08.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\WhileLoops\08\bin\Debug\net5.0\08.dll
+C:\Users\Mert\source\repos\WhileLoops\08\bin\Debug\net5.0\ref\08.dll
+C:\Users\Mert\source\repos\WhileLoops\08\bin\Debug\net5.0\08.pdb
+C:\Users\Mert\source\repos\WhileLoops\08\obj\Debug\net5.0\08.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\WhileLoops\08\obj\Debug\net5.0\08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\WhileLoops\08\obj\Debug\net5.0\08.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\WhileLoops\08\obj\Debug\net5.0\08.AssemblyInfo.cs
+C:\Users\Mert\source\repos\WhileLoops\08\obj\Debug\net5.0\08.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\WhileLoops\08\obj\Debug\net5.0\08.dll
+C:\Users\Mert\source\repos\WhileLoops\08\obj\Debug\net5.0\ref\08.dll
+C:\Users\Mert\source\repos\WhileLoops\08\obj\Debug\net5.0\08.pdb
+C:\Users\Mert\source\repos\WhileLoops\08\obj\Debug\net5.0\08.genruntimeconfig.cache
