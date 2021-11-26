@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Linq;
 
-namespace Problem_2._Mu_Online
+namespace Problem_2___Mu_Online
 {
     class Program
     {
