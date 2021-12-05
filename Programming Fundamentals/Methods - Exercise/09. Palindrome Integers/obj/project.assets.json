@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Methods - Exercise\\09. Palindrome Integers\\09. Palindrome Integers.csproj",
+      "projectUniqueName": "F:\\SoftUni-Exercises\\Programming Fundamentals\\Methods - Exercise\\09. Palindrome Integers\\09. Palindrome Integers.csproj",
       "projectName": "09. Palindrome Integers",
-      "projectPath": "C:\\Users\\Mert\\source\\repos\\Methods - Exercise\\09. Palindrome Integers\\09. Palindrome Integers.csproj",
+      "projectPath": "F:\\SoftUni-Exercises\\Programming Fundamentals\\Methods - Exercise\\09. Palindrome Integers\\09. Palindrome Integers.csproj",
       "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mert\\source\\repos\\Methods - Exercise\\09. Palindrome Integers\\obj\\",
+      "outputPath": "F:\\SoftUni-Exercises\\Programming Fundamentals\\Methods - Exercise\\09. Palindrome Integers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

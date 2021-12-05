@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mert\\source\\repos\\Methods - Exercise\\05. Add and Subtract\\05. Add and Subtract.csproj": {}
+    "F:\\SoftUni-Exercises\\Programming Fundamentals\\Methods - Exercise\\05. Add and Subtract\\05. Add and Subtract.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mert\\source\\repos\\Methods - Exercise\\05. Add and Subtract\\05. Add and Subtract.csproj": {
+    "F:\\SoftUni-Exercises\\Programming Fundamentals\\Methods - Exercise\\05. Add and Subtract\\05. Add and Subtract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Methods - Exercise\\05. Add and Subtract\\05. Add and Subtract.csproj",
+        "projectUniqueName": "F:\\SoftUni-Exercises\\Programming Fundamentals\\Methods - Exercise\\05. Add and Subtract\\05. Add and Subtract.csproj",
         "projectName": "05. Add and Subtract",
-        "projectPath": "C:\\Users\\Mert\\source\\repos\\Methods - Exercise\\05. Add and Subtract\\05. Add and Subtract.csproj",
+        "projectPath": "F:\\SoftUni-Exercises\\Programming Fundamentals\\Methods - Exercise\\05. Add and Subtract\\05. Add and Subtract.csproj",
         "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mert\\source\\repos\\Methods - Exercise\\05. Add and Subtract\\obj\\",
+        "outputPath": "F:\\SoftUni-Exercises\\Programming Fundamentals\\Methods - Exercise\\05. Add and Subtract\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

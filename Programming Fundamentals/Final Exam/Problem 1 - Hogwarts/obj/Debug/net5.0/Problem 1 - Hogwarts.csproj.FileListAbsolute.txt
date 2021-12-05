@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Final Exam\Problem 1 - Hogwarts\bin\Debug\net5.0\Problem 1 - Hogwarts.exe
+C:\Users\Mert\source\repos\Final Exam\Problem 1 - Hogwarts\bin\Debug\net5.0\Problem 1 - Hogwarts.deps.json
+C:\Users\Mert\source\repos\Final Exam\Problem 1 - Hogwarts\bin\Debug\net5.0\Problem 1 - Hogwarts.runtimeconfig.json
+C:\Users\Mert\source\repos\Final Exam\Problem 1 - Hogwarts\bin\Debug\net5.0\Problem 1 - Hogwarts.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Final Exam\Problem 1 - Hogwarts\bin\Debug\net5.0\Problem 1 - Hogwarts.dll
+C:\Users\Mert\source\repos\Final Exam\Problem 1 - Hogwarts\bin\Debug\net5.0\ref\Problem 1 - Hogwarts.dll
+C:\Users\Mert\source\repos\Final Exam\Problem 1 - Hogwarts\bin\Debug\net5.0\Problem 1 - Hogwarts.pdb
+C:\Users\Mert\source\repos\Final Exam\Problem 1 - Hogwarts\obj\Debug\net5.0\Problem 1 - Hogwarts.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Final Exam\Problem 1 - Hogwarts\obj\Debug\net5.0\Problem 1 - Hogwarts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Final Exam\Problem 1 - Hogwarts\obj\Debug\net5.0\Problem 1 - Hogwarts.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Final Exam\Problem 1 - Hogwarts\obj\Debug\net5.0\Problem 1 - Hogwarts.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Final Exam\Problem 1 - Hogwarts\obj\Debug\net5.0\Problem 1 - Hogwarts.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Final Exam\Problem 1 - Hogwarts\obj\Debug\net5.0\Problem 1 - Hogwarts.dll
+C:\Users\Mert\source\repos\Final Exam\Problem 1 - Hogwarts\obj\Debug\net5.0\ref\Problem 1 - Hogwarts.dll
+C:\Users\Mert\source\repos\Final Exam\Problem 1 - Hogwarts\obj\Debug\net5.0\Problem 1 - Hogwarts.pdb
+C:\Users\Mert\source\repos\Final Exam\Problem 1 - Hogwarts\obj\Debug\net5.0\Problem 1 - Hogwarts.genruntimeconfig.cache

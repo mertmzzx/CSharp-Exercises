@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gd7BkWiNPZ67MlX6qlUltyU/sUAzpBsK0GROW9/i6/yAJvUq7zzxrj8PhyMvNpMidpx/C8CljWXAsT5onrujAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mert\\source\\repos\\Final Exam\\Problem 3 - Wild Zoo\\Problem 3 - Wild Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
