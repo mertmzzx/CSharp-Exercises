@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 3 - Heart Delivery"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 4 - Man O War", "Problem 4 - Man O War\Problem 4 - Man O War.csproj", "{5AC1DEEE-F860-49E3-A462-EA3B691558E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5 - Counter-Strike", "Problem 5 - Counter-Strike\Problem 5 - Counter-Strike.csproj", "{B18FA1A0-8EF2-4E6A-A92F-9EEFBC490EF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 5 - Counter-Strike", "Problem 5 - Counter-Strike\Problem 5 - Counter-Strike.csproj", "{B18FA1A0-8EF2-4E6A-A92F-9EEFBC490EF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 6 - Shoot for the Win", "Problem 6 - Shoot for the Win\Problem 6 - Shoot for the Win.csproj", "{565E62A0-EB6A-43CA-93A5-22EDECA96929}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 6 - Shoot for the Win", "Problem 6 - Shoot for the Win\Problem 6 - Shoot for the Win.csproj", "{565E62A0-EB6A-43CA-93A5-22EDECA96929}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 7 - Moving Target", "Problem 7 - Moving Target\Problem 7 - Moving Target.csproj", "{14078075-E5CF-4218-B1CB-F7FB4E6447E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 7 - Moving Target", "Problem 7 - Moving Target\Problem 7 - Moving Target.csproj", "{14078075-E5CF-4218-B1CB-F7FB4E6447E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 8 - SoftUni Reception", "Problem 8 - SoftUni Reception\Problem 8 - SoftUni Reception.csproj", "{575126D9-BF54-40F5-92F9-9F8B9C893F1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{14078075-E5CF-4218-B1CB-F7FB4E6447E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14078075-E5CF-4218-B1CB-F7FB4E6447E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14078075-E5CF-4218-B1CB-F7FB4E6447E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{575126D9-BF54-40F5-92F9-9F8B9C893F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575126D9-BF54-40F5-92F9-9F8B9C893F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575126D9-BF54-40F5-92F9-9F8B9C893F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575126D9-BF54-40F5-92F9-9F8B9C893F1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Stacks and Queues\05. Print Even Numbers\bin\Debug\net5.0\05. Print Even Numbers.exe
+C:\Users\Mert\source\repos\Stacks and Queues\05. Print Even Numbers\bin\Debug\net5.0\05. Print Even Numbers.deps.json
+C:\Users\Mert\source\repos\Stacks and Queues\05. Print Even Numbers\bin\Debug\net5.0\05. Print Even Numbers.runtimeconfig.json
+C:\Users\Mert\source\repos\Stacks and Queues\05. Print Even Numbers\bin\Debug\net5.0\05. Print Even Numbers.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Stacks and Queues\05. Print Even Numbers\bin\Debug\net5.0\05. Print Even Numbers.dll
+C:\Users\Mert\source\repos\Stacks and Queues\05. Print Even Numbers\bin\Debug\net5.0\ref\05. Print Even Numbers.dll
+C:\Users\Mert\source\repos\Stacks and Queues\05. Print Even Numbers\bin\Debug\net5.0\05. Print Even Numbers.pdb
+C:\Users\Mert\source\repos\Stacks and Queues\05. Print Even Numbers\obj\Debug\net5.0\05. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Stacks and Queues\05. Print Even Numbers\obj\Debug\net5.0\05. Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Stacks and Queues\05. Print Even Numbers\obj\Debug\net5.0\05. Print Even Numbers.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Stacks and Queues\05. Print Even Numbers\obj\Debug\net5.0\05. Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Stacks and Queues\05. Print Even Numbers\obj\Debug\net5.0\05. Print Even Numbers.dll
+C:\Users\Mert\source\repos\Stacks and Queues\05. Print Even Numbers\obj\Debug\net5.0\ref\05. Print Even Numbers.dll
+C:\Users\Mert\source\repos\Stacks and Queues\05. Print Even Numbers\obj\Debug\net5.0\05. Print Even Numbers.pdb
+C:\Users\Mert\source\repos\Stacks and Queues\05. Print Even Numbers\obj\Debug\net5.0\05. Print Even Numbers.genruntimeconfig.cache

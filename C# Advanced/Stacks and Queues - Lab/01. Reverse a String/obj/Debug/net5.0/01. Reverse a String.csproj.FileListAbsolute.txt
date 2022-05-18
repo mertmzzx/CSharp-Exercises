@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Stacks and Queues\01. Reverse a String\bin\Debug\net5.0\01. Reverse a String.exe
+C:\Users\Mert\source\repos\Stacks and Queues\01. Reverse a String\bin\Debug\net5.0\01. Reverse a String.deps.json
+C:\Users\Mert\source\repos\Stacks and Queues\01. Reverse a String\bin\Debug\net5.0\01. Reverse a String.runtimeconfig.json
+C:\Users\Mert\source\repos\Stacks and Queues\01. Reverse a String\bin\Debug\net5.0\01. Reverse a String.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Stacks and Queues\01. Reverse a String\bin\Debug\net5.0\01. Reverse a String.dll
+C:\Users\Mert\source\repos\Stacks and Queues\01. Reverse a String\bin\Debug\net5.0\ref\01. Reverse a String.dll
+C:\Users\Mert\source\repos\Stacks and Queues\01. Reverse a String\bin\Debug\net5.0\01. Reverse a String.pdb
+C:\Users\Mert\source\repos\Stacks and Queues\01. Reverse a String\obj\Debug\net5.0\01. Reverse a String.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Stacks and Queues\01. Reverse a String\obj\Debug\net5.0\01. Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Stacks and Queues\01. Reverse a String\obj\Debug\net5.0\01. Reverse a String.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Stacks and Queues\01. Reverse a String\obj\Debug\net5.0\01. Reverse a String.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Stacks and Queues\01. Reverse a String\obj\Debug\net5.0\01. Reverse a String.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Stacks and Queues\01. Reverse a String\obj\Debug\net5.0\01. Reverse a String.dll
+C:\Users\Mert\source\repos\Stacks and Queues\01. Reverse a String\obj\Debug\net5.0\ref\01. Reverse a String.dll
+C:\Users\Mert\source\repos\Stacks and Queues\01. Reverse a String\obj\Debug\net5.0\01. Reverse a String.pdb
+C:\Users\Mert\source\repos\Stacks and Queues\01. Reverse a String\obj\Debug\net5.0\01. Reverse a String.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T08. Balanced Parenthesis\bin\Debug\net5.0\T08. Balanced Parenthesis.exe
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T08. Balanced Parenthesis\bin\Debug\net5.0\T08. Balanced Parenthesis.deps.json
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T08. Balanced Parenthesis\bin\Debug\net5.0\T08. Balanced Parenthesis.runtimeconfig.json
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T08. Balanced Parenthesis\bin\Debug\net5.0\T08. Balanced Parenthesis.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T08. Balanced Parenthesis\bin\Debug\net5.0\T08. Balanced Parenthesis.dll
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T08. Balanced Parenthesis\bin\Debug\net5.0\ref\T08. Balanced Parenthesis.dll
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T08. Balanced Parenthesis\bin\Debug\net5.0\T08. Balanced Parenthesis.pdb
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T08. Balanced Parenthesis\obj\Debug\net5.0\T08. Balanced Parenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T08. Balanced Parenthesis\obj\Debug\net5.0\T08. Balanced Parenthesis.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T08. Balanced Parenthesis\obj\Debug\net5.0\T08. Balanced Parenthesis.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T08. Balanced Parenthesis\obj\Debug\net5.0\T08. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T08. Balanced Parenthesis\obj\Debug\net5.0\T08. Balanced Parenthesis.dll
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T08. Balanced Parenthesis\obj\Debug\net5.0\ref\T08. Balanced Parenthesis.dll
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T08. Balanced Parenthesis\obj\Debug\net5.0\T08. Balanced Parenthesis.pdb
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T08. Balanced Parenthesis\obj\Debug\net5.0\T08. Balanced Parenthesis.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T06. Songs Queue\bin\Debug\net5.0\T06. Songs Queue.exe
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T06. Songs Queue\bin\Debug\net5.0\T06. Songs Queue.deps.json
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T06. Songs Queue\bin\Debug\net5.0\T06. Songs Queue.runtimeconfig.json
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T06. Songs Queue\bin\Debug\net5.0\T06. Songs Queue.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T06. Songs Queue\bin\Debug\net5.0\T06. Songs Queue.dll
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T06. Songs Queue\bin\Debug\net5.0\ref\T06. Songs Queue.dll
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T06. Songs Queue\bin\Debug\net5.0\T06. Songs Queue.pdb
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T06. Songs Queue\obj\Debug\net5.0\T06. Songs Queue.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T06. Songs Queue\obj\Debug\net5.0\T06. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T06. Songs Queue\obj\Debug\net5.0\T06. Songs Queue.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T06. Songs Queue\obj\Debug\net5.0\T06. Songs Queue.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T06. Songs Queue\obj\Debug\net5.0\T06. Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T06. Songs Queue\obj\Debug\net5.0\T06. Songs Queue.dll
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T06. Songs Queue\obj\Debug\net5.0\ref\T06. Songs Queue.dll
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T06. Songs Queue\obj\Debug\net5.0\T06. Songs Queue.pdb
+C:\Users\Mert\source\repos\Stacks and Queues - Exercise\T06. Songs Queue\obj\Debug\net5.0\T06. Songs Queue.genruntimeconfig.cache

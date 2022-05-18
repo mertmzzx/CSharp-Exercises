@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mert\\source\\repos\\Mid Exam - Preparation\\Problem 1 - Black Flag\\Problem 1 - Black Flag.csproj": {}
+    "F:\\SoftUni-Exercises\\Programming Fundamentals\\Mid Exam - Preparation\\Problem 1 - Black Flag\\Problem 1 - Black Flag.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mert\\source\\repos\\Mid Exam - Preparation\\Problem 1 - Black Flag\\Problem 1 - Black Flag.csproj": {
+    "F:\\SoftUni-Exercises\\Programming Fundamentals\\Mid Exam - Preparation\\Problem 1 - Black Flag\\Problem 1 - Black Flag.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Mid Exam - Preparation\\Problem 1 - Black Flag\\Problem 1 - Black Flag.csproj",
+        "projectUniqueName": "F:\\SoftUni-Exercises\\Programming Fundamentals\\Mid Exam - Preparation\\Problem 1 - Black Flag\\Problem 1 - Black Flag.csproj",
         "projectName": "Problem 1 - Black Flag",
-        "projectPath": "C:\\Users\\Mert\\source\\repos\\Mid Exam - Preparation\\Problem 1 - Black Flag\\Problem 1 - Black Flag.csproj",
+        "projectPath": "F:\\SoftUni-Exercises\\Programming Fundamentals\\Mid Exam - Preparation\\Problem 1 - Black Flag\\Problem 1 - Black Flag.csproj",
         "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mert\\source\\repos\\Mid Exam - Preparation\\Problem 1 - Black Flag\\obj\\",
+        "outputPath": "F:\\SoftUni-Exercises\\Programming Fundamentals\\Mid Exam - Preparation\\Problem 1 - Black Flag\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
