@@ -24,7 +24,6 @@ namespace T02._Squares_in_Matrix
                     {
                         count++;
                     }
-
                 }
             }
 
