@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T01. Diagonal Difference\bin\Debug\net5.0\T01. Diagonal Difference.exe
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T01. Diagonal Difference\bin\Debug\net5.0\T01. Diagonal Difference.deps.json
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T01. Diagonal Difference\bin\Debug\net5.0\T01. Diagonal Difference.runtimeconfig.json
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T01. Diagonal Difference\bin\Debug\net5.0\T01. Diagonal Difference.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T01. Diagonal Difference\bin\Debug\net5.0\T01. Diagonal Difference.dll
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T01. Diagonal Difference\bin\Debug\net5.0\ref\T01. Diagonal Difference.dll
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T01. Diagonal Difference\bin\Debug\net5.0\T01. Diagonal Difference.pdb
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T01. Diagonal Difference\obj\Debug\net5.0\T01. Diagonal Difference.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T01. Diagonal Difference\obj\Debug\net5.0\T01. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T01. Diagonal Difference\obj\Debug\net5.0\T01. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T01. Diagonal Difference\obj\Debug\net5.0\T01. Diagonal Difference.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T01. Diagonal Difference\obj\Debug\net5.0\T01. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T01. Diagonal Difference\obj\Debug\net5.0\T01. Diagonal Difference.dll
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T01. Diagonal Difference\obj\Debug\net5.0\ref\T01. Diagonal Difference.dll
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T01. Diagonal Difference\obj\Debug\net5.0\T01. Diagonal Difference.pdb
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T01. Diagonal Difference\obj\Debug\net5.0\T01. Diagonal Difference.genruntimeconfig.cache

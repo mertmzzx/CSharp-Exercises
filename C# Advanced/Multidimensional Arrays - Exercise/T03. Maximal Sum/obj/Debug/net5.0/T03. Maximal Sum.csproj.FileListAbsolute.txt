@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T03. Maximal Sum\bin\Debug\net5.0\T03. Maximal Sum.exe
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T03. Maximal Sum\bin\Debug\net5.0\T03. Maximal Sum.deps.json
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T03. Maximal Sum\bin\Debug\net5.0\T03. Maximal Sum.runtimeconfig.json
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T03. Maximal Sum\bin\Debug\net5.0\T03. Maximal Sum.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T03. Maximal Sum\bin\Debug\net5.0\T03. Maximal Sum.dll
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T03. Maximal Sum\bin\Debug\net5.0\ref\T03. Maximal Sum.dll
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T03. Maximal Sum\bin\Debug\net5.0\T03. Maximal Sum.pdb
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T03. Maximal Sum\obj\Debug\net5.0\T03. Maximal Sum.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T03. Maximal Sum\obj\Debug\net5.0\T03. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T03. Maximal Sum\obj\Debug\net5.0\T03. Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T03. Maximal Sum\obj\Debug\net5.0\T03. Maximal Sum.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T03. Maximal Sum\obj\Debug\net5.0\T03. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T03. Maximal Sum\obj\Debug\net5.0\T03. Maximal Sum.dll
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T03. Maximal Sum\obj\Debug\net5.0\ref\T03. Maximal Sum.dll
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T03. Maximal Sum\obj\Debug\net5.0\T03. Maximal Sum.pdb
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T03. Maximal Sum\obj\Debug\net5.0\T03. Maximal Sum.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T07. Knight Game\obj\Debug\net5.0\T07. Knight Game.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T07. Knight Game\obj\Debug\net5.0\T07. Knight Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T07. Knight Game\obj\Debug\net5.0\T07. Knight Game.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T07. Knight Game\obj\Debug\net5.0\T07. Knight Game.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T07. Knight Game\obj\Debug\net5.0\T07. Knight Game.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T07. Knight Game\bin\Debug\net5.0\T07. Knight Game.exe
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T07. Knight Game\bin\Debug\net5.0\T07. Knight Game.deps.json
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T07. Knight Game\bin\Debug\net5.0\T07. Knight Game.runtimeconfig.json
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T07. Knight Game\bin\Debug\net5.0\T07. Knight Game.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T07. Knight Game\bin\Debug\net5.0\T07. Knight Game.dll
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T07. Knight Game\bin\Debug\net5.0\ref\T07. Knight Game.dll
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T07. Knight Game\bin\Debug\net5.0\T07. Knight Game.pdb
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T07. Knight Game\obj\Debug\net5.0\T07. Knight Game.dll
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T07. Knight Game\obj\Debug\net5.0\ref\T07. Knight Game.dll
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T07. Knight Game\obj\Debug\net5.0\T07. Knight Game.pdb
+C:\Users\Mert\source\repos\Multidimensional Arrays - Exercise\T07. Knight Game\obj\Debug\net5.0\T07. Knight Game.genruntimeconfig.cache
