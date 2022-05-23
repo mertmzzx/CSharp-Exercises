@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Sets and Dictionaries Advanced\04. Product Shop\obj\Debug\net5.0\04. Product Shop.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Sets and Dictionaries Advanced\04. Product Shop\obj\Debug\net5.0\04. Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Sets and Dictionaries Advanced\04. Product Shop\obj\Debug\net5.0\04. Product Shop.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Sets and Dictionaries Advanced\04. Product Shop\obj\Debug\net5.0\04. Product Shop.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Sets and Dictionaries Advanced\04. Product Shop\obj\Debug\net5.0\04. Product Shop.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Sets and Dictionaries Advanced\04. Product Shop\bin\Debug\net5.0\04. Product Shop.exe
+C:\Users\Mert\source\repos\Sets and Dictionaries Advanced\04. Product Shop\bin\Debug\net5.0\04. Product Shop.deps.json
+C:\Users\Mert\source\repos\Sets and Dictionaries Advanced\04. Product Shop\bin\Debug\net5.0\04. Product Shop.runtimeconfig.json
+C:\Users\Mert\source\repos\Sets and Dictionaries Advanced\04. Product Shop\bin\Debug\net5.0\04. Product Shop.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Sets and Dictionaries Advanced\04. Product Shop\bin\Debug\net5.0\04. Product Shop.dll
+C:\Users\Mert\source\repos\Sets and Dictionaries Advanced\04. Product Shop\bin\Debug\net5.0\ref\04. Product Shop.dll
+C:\Users\Mert\source\repos\Sets and Dictionaries Advanced\04. Product Shop\bin\Debug\net5.0\04. Product Shop.pdb
+C:\Users\Mert\source\repos\Sets and Dictionaries Advanced\04. Product Shop\obj\Debug\net5.0\04. Product Shop.dll
+C:\Users\Mert\source\repos\Sets and Dictionaries Advanced\04. Product Shop\obj\Debug\net5.0\ref\04. Product Shop.dll
+C:\Users\Mert\source\repos\Sets and Dictionaries Advanced\04. Product Shop\obj\Debug\net5.0\04. Product Shop.pdb
+C:\Users\Mert\source\repos\Sets and Dictionaries Advanced\04. Product Shop\obj\Debug\net5.0\04. Product Shop.genruntimeconfig.cache
