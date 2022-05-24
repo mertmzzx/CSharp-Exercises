@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32428.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Count Same Values in Array", "01. Count Same Values in Array\01. Count Same Values in Array.csproj", "{A17B89BB-7782-4861-9CF0-D54A9F546E1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Count Same Values in Array", "01. Count Same Values in Array\01. Count Same Values in Array.csproj", "{A17B89BB-7782-4861-9CF0-D54A9F546E1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Average Student Grades", "02. Average Student Grades\02. Average Student Grades.csproj", "{ADB8A04C-9198-4022-9D8A-6DC72769DF5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Average Student Grades", "02. Average Student Grades\02. Average Student Grades.csproj", "{ADB8A04C-9198-4022-9D8A-6DC72769DF5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Largest 3 Numbers", "03. Largest 3 Numbers\03. Largest 3 Numbers.csproj", "{120312F0-A856-4559-9604-6965B880685D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Largest 3 Numbers", "03. Largest 3 Numbers\03. Largest 3 Numbers.csproj", "{120312F0-A856-4559-9604-6965B880685D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Product Shop", "04. Product Shop\04. Product Shop.csproj", "{3B0DE50C-3F04-4549-BE8C-52E6A6FB22C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Product Shop", "04. Product Shop\04. Product Shop.csproj", "{3B0DE50C-3F04-4549-BE8C-52E6A6FB22C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Cities by Continent and Country", "05. Cities by Continent and Country\05. Cities by Continent and Country.csproj", "{939AA612-E85D-4C4E-B180-3201E05D3C85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Cities by Continent and Country", "05. Cities by Continent and Country\05. Cities by Continent and Country.csproj", "{939AA612-E85D-4C4E-B180-3201E05D3C85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Record Unique Names", "06. Record Unique Names\06. Record Unique Names.csproj", "{80A88D29-FA4A-4812-A1F4-A5AF34562B29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Record Unique Names", "06. Record Unique Names\06. Record Unique Names.csproj", "{80A88D29-FA4A-4812-A1F4-A5AF34562B29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Parking Lot", "07. Parking Lot\07. Parking Lot.csproj", "{94AC74F6-B371-43F3-B780-D4EBC62EA0C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. SoftUni Party", "08. SoftUni Party\08. SoftUni Party.csproj", "{E85581BF-DC37-4B6D-B78B-D74F02DF5D23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{80A88D29-FA4A-4812-A1F4-A5AF34562B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80A88D29-FA4A-4812-A1F4-A5AF34562B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80A88D29-FA4A-4812-A1F4-A5AF34562B29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94AC74F6-B371-43F3-B780-D4EBC62EA0C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94AC74F6-B371-43F3-B780-D4EBC62EA0C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94AC74F6-B371-43F3-B780-D4EBC62EA0C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94AC74F6-B371-43F3-B780-D4EBC62EA0C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85581BF-DC37-4B6D-B78B-D74F02DF5D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85581BF-DC37-4B6D-B78B-D74F02DF5D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85581BF-DC37-4B6D-B78B-D74F02DF5D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85581BF-DC37-4B6D-B78B-D74F02DF5D23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
