@@ -12,13 +12,13 @@ namespace T02._Sets_of_Elements
             int m = int.Parse(input.Split(' ')[1]);
 
             HashSet<int> firstSet = new HashSet<int>(); 
-            for (int i = 1; i <= n; i++)
+            for (int i = 0; i < n; i++)
             {
                 firstSet.Add(int.Parse(Console.ReadLine()));
             }
 
             HashSet<int> secondSet = new HashSet<int>(); 
-            for (int i = 1; i <= m; i++)
+            for (int i = 0; i < m; i++)
             {
                 secondSet.Add(int.Parse(Console.ReadLine()));
             }

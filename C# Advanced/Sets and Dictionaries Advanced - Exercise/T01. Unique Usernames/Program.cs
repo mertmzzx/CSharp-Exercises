@@ -10,7 +10,7 @@ namespace T01._Unique_Usernames
             int n = int.Parse(Console.ReadLine()); 
             HashSet<string> usernames = new HashSet<string>();
 
-            for (int i = 1; i <= n; i++)
+            for (int i = 0; i < n; i++)
             {
                 string username = Console.ReadLine();
                 usernames.Add(username);
