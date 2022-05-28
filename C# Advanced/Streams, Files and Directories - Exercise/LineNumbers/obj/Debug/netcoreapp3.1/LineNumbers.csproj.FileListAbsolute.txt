@@ -1,0 +1,13 @@
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache

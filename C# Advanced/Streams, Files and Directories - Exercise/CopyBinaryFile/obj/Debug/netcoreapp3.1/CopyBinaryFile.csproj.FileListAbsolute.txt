@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.exe
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.deps.json
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.json
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.genruntimeconfig.cache

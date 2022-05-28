@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.exe
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.deps.json
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.json
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.dll
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.pdb
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.dll
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.pdb
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.genruntimeconfig.cache

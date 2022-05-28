@@ -1,0 +1,13 @@
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.exe
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.deps.json
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.runtimeconfig.json
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.dll
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.pdb
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.dll
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.pdb
+C:\Users\Mert\source\repos\Streams, Files and Directories - Exercises\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.genruntimeconfig.cache
