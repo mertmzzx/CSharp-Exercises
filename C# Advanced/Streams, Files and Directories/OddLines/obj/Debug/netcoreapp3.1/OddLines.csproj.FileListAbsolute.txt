@@ -1,0 +1,14 @@
+F:\SoftUni-Exercises\C# Advanced\Streams, Files and Directories\OddLines\bin\Debug\netcoreapp3.1\OddLines.exe
+F:\SoftUni-Exercises\C# Advanced\Streams, Files and Directories\OddLines\bin\Debug\netcoreapp3.1\OddLines.deps.json
+F:\SoftUni-Exercises\C# Advanced\Streams, Files and Directories\OddLines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.json
+F:\SoftUni-Exercises\C# Advanced\Streams, Files and Directories\OddLines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.dev.json
+F:\SoftUni-Exercises\C# Advanced\Streams, Files and Directories\OddLines\bin\Debug\netcoreapp3.1\OddLines.dll
+F:\SoftUni-Exercises\C# Advanced\Streams, Files and Directories\OddLines\bin\Debug\netcoreapp3.1\OddLines.pdb
+F:\SoftUni-Exercises\C# Advanced\Streams, Files and Directories\OddLines\obj\Debug\netcoreapp3.1\OddLines.csproj.AssemblyReference.cache
+F:\SoftUni-Exercises\C# Advanced\Streams, Files and Directories\OddLines\obj\Debug\netcoreapp3.1\OddLines.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUni-Exercises\C# Advanced\Streams, Files and Directories\OddLines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfoInputs.cache
+F:\SoftUni-Exercises\C# Advanced\Streams, Files and Directories\OddLines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfo.cs
+F:\SoftUni-Exercises\C# Advanced\Streams, Files and Directories\OddLines\obj\Debug\netcoreapp3.1\OddLines.csproj.CoreCompileInputs.cache
+F:\SoftUni-Exercises\C# Advanced\Streams, Files and Directories\OddLines\obj\Debug\netcoreapp3.1\OddLines.dll
+F:\SoftUni-Exercises\C# Advanced\Streams, Files and Directories\OddLines\obj\Debug\netcoreapp3.1\OddLines.pdb
+F:\SoftUni-Exercises\C# Advanced\Streams, Files and Directories\OddLines\obj\Debug\netcoreapp3.1\OddLines.genruntimeconfig.cache
