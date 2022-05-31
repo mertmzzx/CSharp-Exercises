@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "T02. Knights of Honor/1.0.0": {
+        "runtime": {
+          "T02. Knights of Honor.dll": {}
+        }
+      },
+      "T01. Action Print/1.0.0": {
+        "runtime": {
+          "T01. Action Print.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T02. Knights of Honor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "T01. Action Print/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
