@@ -13,19 +13,20 @@ namespace CarManufacturer
             car.FuelQuantity = 50;
             car.FuelConsumption = 0.07;
 
-            Car anotherCar = new Car()
-            {
-                Make = "Toyota",
-                Model = "Avensis",
-                Year = 2018,
-                FuelQuantity = 40,
-                FuelConsumption = 0.08
-            };
-            Console.WriteLine(anotherCar.WhoAmI());
-            Console.WriteLine();
+            //Car anotherCar = new Car()
+            //{
+            //    Make = "Toyota",
+            //    Model = "Avensis",
+            //    Year = 2018,
+            //    FuelQuantity = 40,
+            //    FuelConsumption = 0.08
+            //};
 
-            Console.WriteLine(car.WhoAmI());
-            Console.WriteLine();
+            //Console.WriteLine(anotherCar.WhoAmI());
+            //Console.WriteLine();
+
+            //Console.WriteLine(car.WhoAmI());
+            //Console.WriteLine();
 
             car.Drive(700);
             Console.WriteLine(car.WhoAmI());
