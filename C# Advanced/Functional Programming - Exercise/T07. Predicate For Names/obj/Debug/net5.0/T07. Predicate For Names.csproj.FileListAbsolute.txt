@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T07. Predicate For Names\bin\Debug\net5.0\T07. Predicate For Names.exe
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T07. Predicate For Names\bin\Debug\net5.0\T07. Predicate For Names.deps.json
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T07. Predicate For Names\bin\Debug\net5.0\T07. Predicate For Names.runtimeconfig.json
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T07. Predicate For Names\bin\Debug\net5.0\T07. Predicate For Names.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T07. Predicate For Names\bin\Debug\net5.0\T07. Predicate For Names.dll
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T07. Predicate For Names\bin\Debug\net5.0\ref\T07. Predicate For Names.dll
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T07. Predicate For Names\bin\Debug\net5.0\T07. Predicate For Names.pdb
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T07. Predicate For Names\obj\Debug\net5.0\T07. Predicate For Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T07. Predicate For Names\obj\Debug\net5.0\T07. Predicate For Names.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T07. Predicate For Names\obj\Debug\net5.0\T07. Predicate For Names.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T07. Predicate For Names\obj\Debug\net5.0\T07. Predicate For Names.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T07. Predicate For Names\obj\Debug\net5.0\T07. Predicate For Names.dll
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T07. Predicate For Names\obj\Debug\net5.0\ref\T07. Predicate For Names.dll
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T07. Predicate For Names\obj\Debug\net5.0\T07. Predicate For Names.pdb
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T07. Predicate For Names\obj\Debug\net5.0\T07. Predicate For Names.genruntimeconfig.cache

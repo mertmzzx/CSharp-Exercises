@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T10. The Party Reservation Filter Module\bin\Debug\net5.0\T10. The Party Reservation Filter Module.exe
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T10. The Party Reservation Filter Module\bin\Debug\net5.0\T10. The Party Reservation Filter Module.deps.json
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T10. The Party Reservation Filter Module\bin\Debug\net5.0\T10. The Party Reservation Filter Module.runtimeconfig.json
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T10. The Party Reservation Filter Module\bin\Debug\net5.0\T10. The Party Reservation Filter Module.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T10. The Party Reservation Filter Module\bin\Debug\net5.0\T10. The Party Reservation Filter Module.dll
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T10. The Party Reservation Filter Module\bin\Debug\net5.0\ref\T10. The Party Reservation Filter Module.dll
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T10. The Party Reservation Filter Module\bin\Debug\net5.0\T10. The Party Reservation Filter Module.pdb
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T10. The Party Reservation Filter Module\obj\Debug\net5.0\T10. The Party Reservation Filter Module.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T10. The Party Reservation Filter Module\obj\Debug\net5.0\T10. The Party Reservation Filter Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T10. The Party Reservation Filter Module\obj\Debug\net5.0\T10. The Party Reservation Filter Module.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T10. The Party Reservation Filter Module\obj\Debug\net5.0\T10. The Party Reservation Filter Module.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T10. The Party Reservation Filter Module\obj\Debug\net5.0\T10. The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T10. The Party Reservation Filter Module\obj\Debug\net5.0\T10. The Party Reservation Filter Module.dll
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T10. The Party Reservation Filter Module\obj\Debug\net5.0\ref\T10. The Party Reservation Filter Module.dll
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T10. The Party Reservation Filter Module\obj\Debug\net5.0\T10. The Party Reservation Filter Module.pdb
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T10. The Party Reservation Filter Module\obj\Debug\net5.0\T10. The Party Reservation Filter Module.genruntimeconfig.cache

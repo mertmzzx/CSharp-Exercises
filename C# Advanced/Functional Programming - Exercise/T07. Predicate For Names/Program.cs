@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace T07._Predicate_For_Names
 {
@@ -6,7 +8,11 @@ namespace T07._Predicate_For_Names
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int length = int.Parse(Console.ReadLine());
+            List<string> names = Console.ReadLine().Split().ToList();
+
+            Predicate<string> filter = names => names.Length <= length;
+            Console.WriteLine(string.Join(Environment.NewLine, names.FindAll(filter)));
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T06. Reverse And Exclude\bin\Debug\net5.0\T06. Reverse And Exclude.exe
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T06. Reverse And Exclude\bin\Debug\net5.0\T06. Reverse And Exclude.deps.json
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T06. Reverse And Exclude\bin\Debug\net5.0\T06. Reverse And Exclude.runtimeconfig.json
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T06. Reverse And Exclude\bin\Debug\net5.0\T06. Reverse And Exclude.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T06. Reverse And Exclude\bin\Debug\net5.0\T06. Reverse And Exclude.dll
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T06. Reverse And Exclude\bin\Debug\net5.0\ref\T06. Reverse And Exclude.dll
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T06. Reverse And Exclude\bin\Debug\net5.0\T06. Reverse And Exclude.pdb
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T06. Reverse And Exclude\obj\Debug\net5.0\T06. Reverse And Exclude.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T06. Reverse And Exclude\obj\Debug\net5.0\T06. Reverse And Exclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T06. Reverse And Exclude\obj\Debug\net5.0\T06. Reverse And Exclude.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T06. Reverse And Exclude\obj\Debug\net5.0\T06. Reverse And Exclude.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T06. Reverse And Exclude\obj\Debug\net5.0\T06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T06. Reverse And Exclude\obj\Debug\net5.0\T06. Reverse And Exclude.dll
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T06. Reverse And Exclude\obj\Debug\net5.0\ref\T06. Reverse And Exclude.dll
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T06. Reverse And Exclude\obj\Debug\net5.0\T06. Reverse And Exclude.pdb
+C:\Users\Mert\source\repos\Functional Programming - Exercise\T06. Reverse And Exclude\obj\Debug\net5.0\T06. Reverse And Exclude.genruntimeconfig.cache
