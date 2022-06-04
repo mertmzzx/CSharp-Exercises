@@ -1,0 +1,13 @@
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T02. Creating Constructors\bin\Debug\netcoreapp3.1\T02. Creating Constructors.exe
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T02. Creating Constructors\bin\Debug\netcoreapp3.1\T02. Creating Constructors.deps.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T02. Creating Constructors\bin\Debug\netcoreapp3.1\T02. Creating Constructors.runtimeconfig.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T02. Creating Constructors\bin\Debug\netcoreapp3.1\T02. Creating Constructors.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T02. Creating Constructors\bin\Debug\netcoreapp3.1\T02. Creating Constructors.dll
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T02. Creating Constructors\bin\Debug\netcoreapp3.1\T02. Creating Constructors.pdb
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T02. Creating Constructors\obj\Debug\netcoreapp3.1\T02. Creating Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T02. Creating Constructors\obj\Debug\netcoreapp3.1\T02. Creating Constructors.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T02. Creating Constructors\obj\Debug\netcoreapp3.1\T02. Creating Constructors.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T02. Creating Constructors\obj\Debug\netcoreapp3.1\T02. Creating Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T02. Creating Constructors\obj\Debug\netcoreapp3.1\T02. Creating Constructors.dll
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T02. Creating Constructors\obj\Debug\netcoreapp3.1\T02. Creating Constructors.pdb
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T02. Creating Constructors\obj\Debug\netcoreapp3.1\T02. Creating Constructors.genruntimeconfig.cache
