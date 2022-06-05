@@ -1,27 +1,31 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace DefiningClasses
 {
     public class Family
     {
+        //fields
+        private List<Person> familyMembers;
+
+        //constructor
         public Family()
         {
-            People = new List<Person>();
-        }
-        public List<Person> People { get; set; }
+            this.familyMembers = new List<Person>();
 
-        public void AddMember(Person person)
-        {
-            People.Add(person);
         }
+
+        //methods (functions)
+        public void AddMember(Person member)
+        {
+            this.familyMembers.Add(member);
+        }
+
         public Person GetOldestMember()
         {
-            Person person = People.OrderByDescending(x => x.Age).FirstOrDefault();
-
-            return person; ;
+            int maxAge = this.familyMembers.Max(member => member.Age);
+            return this.familyMembers.First(member => member.Age == maxAge);
         }
     }
 }

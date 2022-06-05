@@ -2,28 +2,42 @@
 {
     public class Person
     {
-        string name;
-        int age;
+        //fields
+        private string name;
+        private int age;
 
+        //constructor by default
         public Person()
         {
-            name = "No name";
-            age = 1;
+            Name = "No Name";
+            Age = 1;
         }
 
-        public Person(int age) : this()
+        //constructor only with age
+        public Person(int age)
         {
+            Name = "No Name";
             Age = age;
         }
 
+        //constructor with parameters 
         public Person(string name, int age)
         {
+            //new empty object
             Name = name;
             Age = age;
         }
 
-        public string Name { get { return this.name; } set { name = value; } }
-
-        public int Age { get { return this.age; } set { age = value; } }
+        //properties
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+        public int Age
+        {
+            get { return age; }
+            set { age = value; }
+        }
     }
 }
