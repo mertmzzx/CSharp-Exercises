@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T07. Raw Data\bin\Debug\netcoreapp3.1\T07. Raw Data.exe
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T07. Raw Data\bin\Debug\netcoreapp3.1\T07. Raw Data.deps.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T07. Raw Data\bin\Debug\netcoreapp3.1\T07. Raw Data.runtimeconfig.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T07. Raw Data\bin\Debug\netcoreapp3.1\T07. Raw Data.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T07. Raw Data\bin\Debug\netcoreapp3.1\T07. Raw Data.dll
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T07. Raw Data\bin\Debug\netcoreapp3.1\T07. Raw Data.pdb
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T07. Raw Data\obj\Debug\netcoreapp3.1\T07. Raw Data.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T07. Raw Data\obj\Debug\netcoreapp3.1\T07. Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T07. Raw Data\obj\Debug\netcoreapp3.1\T07. Raw Data.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T07. Raw Data\obj\Debug\netcoreapp3.1\T07. Raw Data.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T07. Raw Data\obj\Debug\netcoreapp3.1\T07. Raw Data.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T07. Raw Data\obj\Debug\netcoreapp3.1\T07. Raw Data.dll
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T07. Raw Data\obj\Debug\netcoreapp3.1\T07. Raw Data.pdb
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T07. Raw Data\obj\Debug\netcoreapp3.1\T07. Raw Data.genruntimeconfig.cache

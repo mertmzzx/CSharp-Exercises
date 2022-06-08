@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Defining Classes - Exercise\\T10. SoftUni Parking\\T10. SoftUni Parking.csproj",
-      "projectName": "T10. SoftUni Parking",
-      "projectPath": "C:\\Users\\Mert\\source\\repos\\Defining Classes - Exercise\\T10. SoftUni Parking\\T10. SoftUni Parking.csproj",
+      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Defining Classes - Exercise\\T10. SoftUni Parking\\SoftUniParking.csproj",
+      "projectName": "SoftUniParking",
+      "projectPath": "C:\\Users\\Mert\\source\\repos\\Defining Classes - Exercise\\T10. SoftUni Parking\\SoftUniParking.csproj",
       "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Mert\\source\\repos\\Defining Classes - Exercise\\T10. SoftUni Parking\\obj\\",
       "projectStyle": "PackageReference",

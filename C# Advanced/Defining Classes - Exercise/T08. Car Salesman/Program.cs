@@ -6,7 +6,7 @@ namespace T08._Car_Salesman
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //TODO
         }
     }
 }

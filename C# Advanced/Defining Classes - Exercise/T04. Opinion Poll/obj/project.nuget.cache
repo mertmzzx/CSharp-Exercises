@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xZrzg6KQmLgg1lGKv8sXkPSZo4V3HxtlwVq/A5byHNkPjMPqLDypRuuTKjqZ2YOxVXPhp4BF8XPdtDItO1r8xg==",
+  "dgSpecHash": "wgTRNif/+bCZwVxSLWpRzAMYZTYEmkoWGaD/pXrkIzLBFho9W5eA1ExUALzM1rZK1rN7ejnxaYL6ZArqD1RepQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mert\\source\\repos\\Defining Classes - Exercise\\T04. Opinion Poll\\T04. Opinion Poll.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Mert\\source\\repos\\Defining Classes - Exercise\\T04. Opinion Poll\\T04.OpinionPoll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

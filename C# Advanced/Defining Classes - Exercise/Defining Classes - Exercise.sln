@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T02. Creating Constructors"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T03. Oldest Family Member", "T03. Oldest Family Member\T03. Oldest Family Member.csproj", "{D68F0F67-0A2F-42F8-B325-FE15AC446029}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T04. Opinion Poll", "T04. Opinion Poll\T04. Opinion Poll.csproj", "{463508CE-15FC-417D-BE11-E9855B6F24D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T04.OpinionPoll", "T04. Opinion Poll\T04.OpinionPoll.csproj", "{463508CE-15FC-417D-BE11-E9855B6F24D7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05. Date Modifier", "T05. Date Modifier\T05. Date Modifier.csproj", "{B8C3A004-49D1-4D4D-8AF3-FC0263600A23}"
 EndProject

@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T04. Opinion Poll\bin\Debug\netcoreapp3.1\T04. Opinion Poll.exe
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T04. Opinion Poll\bin\Debug\netcoreapp3.1\T04. Opinion Poll.deps.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T04. Opinion Poll\bin\Debug\netcoreapp3.1\T04. Opinion Poll.runtimeconfig.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T04. Opinion Poll\bin\Debug\netcoreapp3.1\T04. Opinion Poll.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T04. Opinion Poll\bin\Debug\netcoreapp3.1\T04. Opinion Poll.dll
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T04. Opinion Poll\bin\Debug\netcoreapp3.1\T04. Opinion Poll.pdb
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T04. Opinion Poll\obj\Debug\netcoreapp3.1\T04. Opinion Poll.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T04. Opinion Poll\obj\Debug\netcoreapp3.1\T04. Opinion Poll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T04. Opinion Poll\obj\Debug\netcoreapp3.1\T04. Opinion Poll.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T04. Opinion Poll\obj\Debug\netcoreapp3.1\T04. Opinion Poll.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T04. Opinion Poll\obj\Debug\netcoreapp3.1\T04. Opinion Poll.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T04. Opinion Poll\obj\Debug\netcoreapp3.1\T04. Opinion Poll.dll
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T04. Opinion Poll\obj\Debug\netcoreapp3.1\T04. Opinion Poll.pdb
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T04. Opinion Poll\obj\Debug\netcoreapp3.1\T04. Opinion Poll.genruntimeconfig.cache
