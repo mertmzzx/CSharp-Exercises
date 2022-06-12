@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T01. Define a Class Person\bin\Debug\netcoreapp3.1\T01. Define a Class Person.exe
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T01. Define a Class Person\bin\Debug\netcoreapp3.1\T01. Define a Class Person.deps.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T01. Define a Class Person\bin\Debug\netcoreapp3.1\T01. Define a Class Person.runtimeconfig.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T01. Define a Class Person\bin\Debug\netcoreapp3.1\T01. Define a Class Person.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T01. Define a Class Person\bin\Debug\netcoreapp3.1\T01. Define a Class Person.dll
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T01. Define a Class Person\bin\Debug\netcoreapp3.1\T01. Define a Class Person.pdb
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T01. Define a Class Person\obj\Debug\netcoreapp3.1\T01. Define a Class Person.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T01. Define a Class Person\obj\Debug\netcoreapp3.1\T01. Define a Class Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T01. Define a Class Person\obj\Debug\netcoreapp3.1\T01. Define a Class Person.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T01. Define a Class Person\obj\Debug\netcoreapp3.1\T01. Define a Class Person.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T01. Define a Class Person\obj\Debug\netcoreapp3.1\T01. Define a Class Person.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T01. Define a Class Person\obj\Debug\netcoreapp3.1\T01. Define a Class Person.dll
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T01. Define a Class Person\obj\Debug\netcoreapp3.1\T01. Define a Class Person.pdb
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T01. Define a Class Person\obj\Debug\netcoreapp3.1\T01. Define a Class Person.genruntimeconfig.cache

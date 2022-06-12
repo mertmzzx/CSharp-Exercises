@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T08. Car Salesman\bin\Debug\netcoreapp3.1\T08. Car Salesman.exe
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T08. Car Salesman\bin\Debug\netcoreapp3.1\T08. Car Salesman.deps.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T08. Car Salesman\bin\Debug\netcoreapp3.1\T08. Car Salesman.runtimeconfig.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T08. Car Salesman\bin\Debug\netcoreapp3.1\T08. Car Salesman.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T08. Car Salesman\bin\Debug\netcoreapp3.1\T08. Car Salesman.dll
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T08. Car Salesman\bin\Debug\netcoreapp3.1\T08. Car Salesman.pdb
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T08. Car Salesman\obj\Debug\netcoreapp3.1\T08. Car Salesman.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T08. Car Salesman\obj\Debug\netcoreapp3.1\T08. Car Salesman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T08. Car Salesman\obj\Debug\netcoreapp3.1\T08. Car Salesman.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T08. Car Salesman\obj\Debug\netcoreapp3.1\T08. Car Salesman.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T08. Car Salesman\obj\Debug\netcoreapp3.1\T08. Car Salesman.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T08. Car Salesman\obj\Debug\netcoreapp3.1\T08. Car Salesman.dll
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T08. Car Salesman\obj\Debug\netcoreapp3.1\T08. Car Salesman.pdb
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T08. Car Salesman\obj\Debug\netcoreapp3.1\T08. Car Salesman.genruntimeconfig.cache

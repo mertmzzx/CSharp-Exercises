@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T06. Speed Racing\bin\Debug\netcoreapp3.1\T06. Speed Racing.exe
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T06. Speed Racing\bin\Debug\netcoreapp3.1\T06. Speed Racing.deps.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T06. Speed Racing\bin\Debug\netcoreapp3.1\T06. Speed Racing.runtimeconfig.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T06. Speed Racing\bin\Debug\netcoreapp3.1\T06. Speed Racing.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T06. Speed Racing\bin\Debug\netcoreapp3.1\T06. Speed Racing.dll
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T06. Speed Racing\bin\Debug\netcoreapp3.1\T06. Speed Racing.pdb
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T06. Speed Racing\obj\Debug\netcoreapp3.1\T06. Speed Racing.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T06. Speed Racing\obj\Debug\netcoreapp3.1\T06. Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T06. Speed Racing\obj\Debug\netcoreapp3.1\T06. Speed Racing.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T06. Speed Racing\obj\Debug\netcoreapp3.1\T06. Speed Racing.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T06. Speed Racing\obj\Debug\netcoreapp3.1\T06. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T06. Speed Racing\obj\Debug\netcoreapp3.1\T06. Speed Racing.dll
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T06. Speed Racing\obj\Debug\netcoreapp3.1\T06. Speed Racing.pdb
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T06. Speed Racing\obj\Debug\netcoreapp3.1\T06. Speed Racing.genruntimeconfig.cache

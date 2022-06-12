@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T09. Pokemon Trainer\bin\Debug\netcoreapp3.1\T09. Pokemon Trainer.exe
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T09. Pokemon Trainer\bin\Debug\netcoreapp3.1\T09. Pokemon Trainer.deps.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T09. Pokemon Trainer\bin\Debug\netcoreapp3.1\T09. Pokemon Trainer.runtimeconfig.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T09. Pokemon Trainer\bin\Debug\netcoreapp3.1\T09. Pokemon Trainer.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T09. Pokemon Trainer\bin\Debug\netcoreapp3.1\T09. Pokemon Trainer.dll
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T09. Pokemon Trainer\bin\Debug\netcoreapp3.1\T09. Pokemon Trainer.pdb
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T09. Pokemon Trainer\obj\Debug\netcoreapp3.1\T09. Pokemon Trainer.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T09. Pokemon Trainer\obj\Debug\netcoreapp3.1\T09. Pokemon Trainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T09. Pokemon Trainer\obj\Debug\netcoreapp3.1\T09. Pokemon Trainer.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T09. Pokemon Trainer\obj\Debug\netcoreapp3.1\T09. Pokemon Trainer.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T09. Pokemon Trainer\obj\Debug\netcoreapp3.1\T09. Pokemon Trainer.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T09. Pokemon Trainer\obj\Debug\netcoreapp3.1\T09. Pokemon Trainer.dll
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T09. Pokemon Trainer\obj\Debug\netcoreapp3.1\T09. Pokemon Trainer.pdb
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T09. Pokemon Trainer\obj\Debug\netcoreapp3.1\T09. Pokemon Trainer.genruntimeconfig.cache

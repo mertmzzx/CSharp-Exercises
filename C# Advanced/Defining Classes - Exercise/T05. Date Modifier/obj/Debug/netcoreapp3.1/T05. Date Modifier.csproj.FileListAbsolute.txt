@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T05. Date Modifier\bin\Debug\netcoreapp3.1\T05. Date Modifier.exe
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T05. Date Modifier\bin\Debug\netcoreapp3.1\T05. Date Modifier.deps.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T05. Date Modifier\bin\Debug\netcoreapp3.1\T05. Date Modifier.runtimeconfig.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T05. Date Modifier\bin\Debug\netcoreapp3.1\T05. Date Modifier.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T05. Date Modifier\bin\Debug\netcoreapp3.1\T05. Date Modifier.dll
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T05. Date Modifier\bin\Debug\netcoreapp3.1\T05. Date Modifier.pdb
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T05. Date Modifier\obj\Debug\netcoreapp3.1\T05. Date Modifier.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T05. Date Modifier\obj\Debug\netcoreapp3.1\T05. Date Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T05. Date Modifier\obj\Debug\netcoreapp3.1\T05. Date Modifier.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T05. Date Modifier\obj\Debug\netcoreapp3.1\T05. Date Modifier.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T05. Date Modifier\obj\Debug\netcoreapp3.1\T05. Date Modifier.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T05. Date Modifier\obj\Debug\netcoreapp3.1\T05. Date Modifier.dll
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T05. Date Modifier\obj\Debug\netcoreapp3.1\T05. Date Modifier.pdb
+C:\Users\Mert\source\repos\Defining Classes - Exercise\T05. Date Modifier\obj\Debug\netcoreapp3.1\T05. Date Modifier.genruntimeconfig.cache
