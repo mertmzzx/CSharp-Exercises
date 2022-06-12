@@ -60,16 +60,13 @@ namespace DefiningClasses
             {
                 pokemon.Health -= 10;
 
-                if (pokemon.Health <= 0)
-                {
-                    trainer.pokemonCollection.Remove(pokemon);
-                }
-
                 if (trainer.pokemonCollection.Count == 0)
                 {
                     break;
                 }
             }
+
+            trainer.pokemonCollection = trainer.pokemonCollection.Where(x => x.Health > 0).ToList();
         }
     }
 }
