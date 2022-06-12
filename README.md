@@ -4,7 +4,6 @@ They are intended **only** for educational purposes.
 
 *Feel free to use them through your learning process.*
 
-
 ------------------
 ### Programming Basics
 
@@ -14,6 +13,7 @@ They are intended **only** for educational purposes.
 **4.** [For Loop](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Basics/ForLoops)<br />
 **5.** [While Loop](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Basics/WhileLoops)<br />
 **6.** [Nested Loops](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Basics/NestedLoops) <br />
+
 ------------------
 ### Programming Fundamentals
 **1.** [Basic Syntax, Conditional Statements and Loops]()<br />
@@ -25,6 +25,7 @@ They are intended **only** for educational purposes.
 **7.** [Objects and Classes]()<br />
 **8.** [Text Processing]()<br />
 **9.** [Regular Expressions]()<br />
+
 ------------------
 ### Advanced
 **1.** [Stacks and Queues]()<br />
