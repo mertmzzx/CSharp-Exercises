@@ -16,15 +16,15 @@ They are intended **only** for educational purposes.
 
 ------------------
 ### Programming Fundamentals
-**1.** [Basic Syntax, Conditional Statements and Loops]()<br />
-**2.** [Data Types and Variables]()<br />
-**3.** [Arrays]()<br />
-**4.** [Lists]()<br />
-**5.** [Methods]()<br />
-**6.** [Associative Arrays]()<br />
-**7.** [Objects and Classes]()<br />
-**8.** [Text Processing]()<br />
-**9.** [Regular Expressions]()<br />
+**1.** [Basic Syntax, Conditional Statements and Loops](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Fundamentals/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops)<br />
+**2.** [Data Types and Variables](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Fundamentals/Data%20Types%20and%20Variables)<br />
+**3.** [Arrays](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Fundamentals/Arrays)<br />
+**4.** [Lists](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Fundamentals/Lists)<br />
+**5.** [Methods](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Fundamentals/Methods)<br />
+**6.** [Associative Arrays](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Fundamentals/Associative%20Arrays)<br />
+**7.** [Objects and Classes](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Fundamentals/Objects%20and%20Classes)<br />
+**8.** [Text Processing](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Fundamentals/Text%20Processing)<br />
+**9.** [Regular Expressions](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Fundamentals/Regular%20Expressions)<br />
 
 ------------------
 ### Advanced
