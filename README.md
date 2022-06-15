@@ -28,11 +28,14 @@ They are intended **only** for educational purposes.
 
 ------------------
 ### Advanced
-**1.** [Stacks and Queues]()<br />
-**2.** [Multidimentional Arrays]()<br />
-**3.** [Sets and Dictionaries]()<br />
-**4.** [Streams, Files and Directories]()<br />
-**5.** [Methods]()<br />
-**6.** [Functional Programming]()<br />
-**7.** [Generics]()<br />
-**8.** [Iterators and Comparators]()<br />
+**1.** [Stacks and Queues](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Advanced/Stacks%20and%20Queues)<br />
+**2.** [Multidimentional Arrays](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Advanced/Multidimensional%20Arrays)<br />
+**3.** [Sets and Dictionaries](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Advanced/Sets%20and%20Dictionaries%20Advanced)<br />
+**4.** [Streams, Files and Directories](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Advanced/Streams%2C%20Files%20and%20Directories)<br />
+**5.** [Functional Programming](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Advanced/Functional%20Programming)<br />
+**6.** [Defining Classes](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Advanced/Defining%20Classes)<br />
+**6.** [Implementing Linked List](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Advanced/Implementing%20Linked%20List)<br />
+**6.** [Implementing Stack and Queue](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Advanced/Implementing%20List%20and%20Stack)<br />
+**7.** [Generics](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Advanced/Generics)<br />
+**8.** [Iterators and Comparators](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Advanced/Iterators%20and%20Comparators/Iterators%20and%20Comparators%20-%20Lab)<br />
+**9.** [Algorithms Introduction]()<br />
