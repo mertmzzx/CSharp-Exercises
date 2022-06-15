@@ -37,5 +37,5 @@ They are intended **only** for educational purposes.
 **6.** [Implementing Linked List](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Advanced/Implementing%20Linked%20List)<br />
 **6.** [Implementing Stack and Queue](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Advanced/Implementing%20List%20and%20Stack)<br />
 **7.** [Generics](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Advanced/Generics)<br />
-**8.** [Iterators and Comparators](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Advanced/Iterators%20and%20Comparators/Iterators%20and%20Comparators%20-%20Lab)<br />
+**8.** [Iterators and Comparators](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Advanced/Iterators%20and%20Comparators)<br />
 **9.** [Algorithms Introduction]()<br />
