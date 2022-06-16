@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Final Exam\Problem 3 - Wild Zoo\bin\Debug\net5.0\Problem 3 - Wild Zoo.exe
+C:\Users\Mert\source\repos\Final Exam\Problem 3 - Wild Zoo\bin\Debug\net5.0\Problem 3 - Wild Zoo.deps.json
+C:\Users\Mert\source\repos\Final Exam\Problem 3 - Wild Zoo\bin\Debug\net5.0\Problem 3 - Wild Zoo.runtimeconfig.json
+C:\Users\Mert\source\repos\Final Exam\Problem 3 - Wild Zoo\bin\Debug\net5.0\Problem 3 - Wild Zoo.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Final Exam\Problem 3 - Wild Zoo\bin\Debug\net5.0\Problem 3 - Wild Zoo.dll
+C:\Users\Mert\source\repos\Final Exam\Problem 3 - Wild Zoo\bin\Debug\net5.0\ref\Problem 3 - Wild Zoo.dll
+C:\Users\Mert\source\repos\Final Exam\Problem 3 - Wild Zoo\bin\Debug\net5.0\Problem 3 - Wild Zoo.pdb
+C:\Users\Mert\source\repos\Final Exam\Problem 3 - Wild Zoo\obj\Debug\net5.0\Problem 3 - Wild Zoo.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Final Exam\Problem 3 - Wild Zoo\obj\Debug\net5.0\Problem 3 - Wild Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Final Exam\Problem 3 - Wild Zoo\obj\Debug\net5.0\Problem 3 - Wild Zoo.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Final Exam\Problem 3 - Wild Zoo\obj\Debug\net5.0\Problem 3 - Wild Zoo.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Final Exam\Problem 3 - Wild Zoo\obj\Debug\net5.0\Problem 3 - Wild Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Final Exam\Problem 3 - Wild Zoo\obj\Debug\net5.0\Problem 3 - Wild Zoo.dll
+C:\Users\Mert\source\repos\Final Exam\Problem 3 - Wild Zoo\obj\Debug\net5.0\ref\Problem 3 - Wild Zoo.dll
+C:\Users\Mert\source\repos\Final Exam\Problem 3 - Wild Zoo\obj\Debug\net5.0\Problem 3 - Wild Zoo.pdb
+C:\Users\Mert\source\repos\Final Exam\Problem 3 - Wild Zoo\obj\Debug\net5.0\Problem 3 - Wild Zoo.genruntimeconfig.cache

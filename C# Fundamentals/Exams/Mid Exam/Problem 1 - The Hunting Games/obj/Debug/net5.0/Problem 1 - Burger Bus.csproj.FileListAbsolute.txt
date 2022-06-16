@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\Mid Exam\Problem 1 - The Hunting Games\bin\Debug\net5.0\Problem 1 - Burger Bus.exe
+C:\Users\Mert\source\repos\Mid Exam\Problem 1 - The Hunting Games\bin\Debug\net5.0\Problem 1 - Burger Bus.deps.json
+C:\Users\Mert\source\repos\Mid Exam\Problem 1 - The Hunting Games\bin\Debug\net5.0\Problem 1 - Burger Bus.runtimeconfig.json
+C:\Users\Mert\source\repos\Mid Exam\Problem 1 - The Hunting Games\bin\Debug\net5.0\Problem 1 - Burger Bus.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Mid Exam\Problem 1 - The Hunting Games\bin\Debug\net5.0\Problem 1 - Burger Bus.dll
+C:\Users\Mert\source\repos\Mid Exam\Problem 1 - The Hunting Games\bin\Debug\net5.0\ref\Problem 1 - Burger Bus.dll
+C:\Users\Mert\source\repos\Mid Exam\Problem 1 - The Hunting Games\bin\Debug\net5.0\Problem 1 - Burger Bus.pdb
+C:\Users\Mert\source\repos\Mid Exam\Problem 1 - The Hunting Games\obj\Debug\net5.0\Problem 1 - Burger Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Mid Exam\Problem 1 - The Hunting Games\obj\Debug\net5.0\Problem 1 - Burger Bus.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Mid Exam\Problem 1 - The Hunting Games\obj\Debug\net5.0\Problem 1 - Burger Bus.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Mid Exam\Problem 1 - The Hunting Games\obj\Debug\net5.0\Problem 1 - Burger Bus.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Mid Exam\Problem 1 - The Hunting Games\obj\Debug\net5.0\Problem 1 - Burger Bus.dll
+C:\Users\Mert\source\repos\Mid Exam\Problem 1 - The Hunting Games\obj\Debug\net5.0\ref\Problem 1 - Burger Bus.dll
+C:\Users\Mert\source\repos\Mid Exam\Problem 1 - The Hunting Games\obj\Debug\net5.0\Problem 1 - Burger Bus.pdb
+C:\Users\Mert\source\repos\Mid Exam\Problem 1 - The Hunting Games\obj\Debug\net5.0\Problem 1 - Burger Bus.genruntimeconfig.cache

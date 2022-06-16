@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Mid Exam\Problem 3 -The Angry Cat\bin\Debug\net5.0\Problem 3 -The Angry Cat.exe
+C:\Users\Mert\source\repos\Mid Exam\Problem 3 -The Angry Cat\bin\Debug\net5.0\Problem 3 -The Angry Cat.deps.json
+C:\Users\Mert\source\repos\Mid Exam\Problem 3 -The Angry Cat\bin\Debug\net5.0\Problem 3 -The Angry Cat.runtimeconfig.json
+C:\Users\Mert\source\repos\Mid Exam\Problem 3 -The Angry Cat\bin\Debug\net5.0\Problem 3 -The Angry Cat.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Mid Exam\Problem 3 -The Angry Cat\bin\Debug\net5.0\Problem 3 -The Angry Cat.dll
+C:\Users\Mert\source\repos\Mid Exam\Problem 3 -The Angry Cat\bin\Debug\net5.0\ref\Problem 3 -The Angry Cat.dll
+C:\Users\Mert\source\repos\Mid Exam\Problem 3 -The Angry Cat\bin\Debug\net5.0\Problem 3 -The Angry Cat.pdb
+C:\Users\Mert\source\repos\Mid Exam\Problem 3 -The Angry Cat\obj\Debug\net5.0\Problem 3 -The Angry Cat.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Mid Exam\Problem 3 -The Angry Cat\obj\Debug\net5.0\Problem 3 -The Angry Cat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Mid Exam\Problem 3 -The Angry Cat\obj\Debug\net5.0\Problem 3 -The Angry Cat.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Mid Exam\Problem 3 -The Angry Cat\obj\Debug\net5.0\Problem 3 -The Angry Cat.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Mid Exam\Problem 3 -The Angry Cat\obj\Debug\net5.0\Problem 3 -The Angry Cat.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Mid Exam\Problem 3 -The Angry Cat\obj\Debug\net5.0\Problem 3 -The Angry Cat.dll
+C:\Users\Mert\source\repos\Mid Exam\Problem 3 -The Angry Cat\obj\Debug\net5.0\ref\Problem 3 -The Angry Cat.dll
+C:\Users\Mert\source\repos\Mid Exam\Problem 3 -The Angry Cat\obj\Debug\net5.0\Problem 3 -The Angry Cat.pdb
+C:\Users\Mert\source\repos\Mid Exam\Problem 3 -The Angry Cat\obj\Debug\net5.0\Problem 3 -The Angry Cat.genruntimeconfig.cache

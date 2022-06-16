@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\Mid Exam\Problem 2 - Coffee Lover\bin\Debug\net5.0\Problem 2 - Coffee Lover.exe
+C:\Users\Mert\source\repos\Mid Exam\Problem 2 - Coffee Lover\bin\Debug\net5.0\Problem 2 - Coffee Lover.deps.json
+C:\Users\Mert\source\repos\Mid Exam\Problem 2 - Coffee Lover\bin\Debug\net5.0\Problem 2 - Coffee Lover.runtimeconfig.json
+C:\Users\Mert\source\repos\Mid Exam\Problem 2 - Coffee Lover\bin\Debug\net5.0\Problem 2 - Coffee Lover.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Mid Exam\Problem 2 - Coffee Lover\bin\Debug\net5.0\Problem 2 - Coffee Lover.dll
+C:\Users\Mert\source\repos\Mid Exam\Problem 2 - Coffee Lover\bin\Debug\net5.0\ref\Problem 2 - Coffee Lover.dll
+C:\Users\Mert\source\repos\Mid Exam\Problem 2 - Coffee Lover\bin\Debug\net5.0\Problem 2 - Coffee Lover.pdb
+C:\Users\Mert\source\repos\Mid Exam\Problem 2 - Coffee Lover\obj\Debug\net5.0\Problem 2 - Coffee Lover.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Mid Exam\Problem 2 - Coffee Lover\obj\Debug\net5.0\Problem 2 - Coffee Lover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Mid Exam\Problem 2 - Coffee Lover\obj\Debug\net5.0\Problem 2 - Coffee Lover.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Mid Exam\Problem 2 - Coffee Lover\obj\Debug\net5.0\Problem 2 - Coffee Lover.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Mid Exam\Problem 2 - Coffee Lover\obj\Debug\net5.0\Problem 2 - Coffee Lover.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Mid Exam\Problem 2 - Coffee Lover\obj\Debug\net5.0\Problem 2 - Coffee Lover.dll
+C:\Users\Mert\source\repos\Mid Exam\Problem 2 - Coffee Lover\obj\Debug\net5.0\ref\Problem 2 - Coffee Lover.dll
+C:\Users\Mert\source\repos\Mid Exam\Problem 2 - Coffee Lover\obj\Debug\net5.0\Problem 2 - Coffee Lover.pdb
+C:\Users\Mert\source\repos\Mid Exam\Problem 2 - Coffee Lover\obj\Debug\net5.0\Problem 2 - Coffee Lover.genruntimeconfig.cache
