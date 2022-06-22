@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Exam Preparation\Problem 4 - Blacksmith\bin\Debug\netcoreapp3.1\Problem 4 - Blacksmith.exe
+C:\Users\Mert\source\repos\Exam Preparation\Problem 4 - Blacksmith\bin\Debug\netcoreapp3.1\Problem 4 - Blacksmith.deps.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 4 - Blacksmith\bin\Debug\netcoreapp3.1\Problem 4 - Blacksmith.runtimeconfig.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 4 - Blacksmith\bin\Debug\netcoreapp3.1\Problem 4 - Blacksmith.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 4 - Blacksmith\bin\Debug\netcoreapp3.1\Problem 4 - Blacksmith.dll
+C:\Users\Mert\source\repos\Exam Preparation\Problem 4 - Blacksmith\bin\Debug\netcoreapp3.1\Problem 4 - Blacksmith.pdb
+C:\Users\Mert\source\repos\Exam Preparation\Problem 4 - Blacksmith\obj\Debug\netcoreapp3.1\Problem 4 - Blacksmith.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 4 - Blacksmith\obj\Debug\netcoreapp3.1\Problem 4 - Blacksmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Exam Preparation\Problem 4 - Blacksmith\obj\Debug\netcoreapp3.1\Problem 4 - Blacksmith.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 4 - Blacksmith\obj\Debug\netcoreapp3.1\Problem 4 - Blacksmith.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Exam Preparation\Problem 4 - Blacksmith\obj\Debug\netcoreapp3.1\Problem 4 - Blacksmith.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 4 - Blacksmith\obj\Debug\netcoreapp3.1\Problem 4 - Blacksmith.dll
+C:\Users\Mert\source\repos\Exam Preparation\Problem 4 - Blacksmith\obj\Debug\netcoreapp3.1\Problem 4 - Blacksmith.pdb
+C:\Users\Mert\source\repos\Exam Preparation\Problem 4 - Blacksmith\obj\Debug\netcoreapp3.1\Problem 4 - Blacksmith.genruntimeconfig.cache

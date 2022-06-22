@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Exam Preparation\Problem 5 - Truffle Hunter\bin\Debug\netcoreapp3.1\Problem 5 - Truffle Hunter.exe
+C:\Users\Mert\source\repos\Exam Preparation\Problem 5 - Truffle Hunter\bin\Debug\netcoreapp3.1\Problem 5 - Truffle Hunter.deps.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 5 - Truffle Hunter\bin\Debug\netcoreapp3.1\Problem 5 - Truffle Hunter.runtimeconfig.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 5 - Truffle Hunter\bin\Debug\netcoreapp3.1\Problem 5 - Truffle Hunter.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 5 - Truffle Hunter\bin\Debug\netcoreapp3.1\Problem 5 - Truffle Hunter.dll
+C:\Users\Mert\source\repos\Exam Preparation\Problem 5 - Truffle Hunter\bin\Debug\netcoreapp3.1\Problem 5 - Truffle Hunter.pdb
+C:\Users\Mert\source\repos\Exam Preparation\Problem 5 - Truffle Hunter\obj\Debug\netcoreapp3.1\Problem 5 - Truffle Hunter.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 5 - Truffle Hunter\obj\Debug\netcoreapp3.1\Problem 5 - Truffle Hunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Exam Preparation\Problem 5 - Truffle Hunter\obj\Debug\netcoreapp3.1\Problem 5 - Truffle Hunter.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 5 - Truffle Hunter\obj\Debug\netcoreapp3.1\Problem 5 - Truffle Hunter.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Exam Preparation\Problem 5 - Truffle Hunter\obj\Debug\netcoreapp3.1\Problem 5 - Truffle Hunter.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 5 - Truffle Hunter\obj\Debug\netcoreapp3.1\Problem 5 - Truffle Hunter.dll
+C:\Users\Mert\source\repos\Exam Preparation\Problem 5 - Truffle Hunter\obj\Debug\netcoreapp3.1\Problem 5 - Truffle Hunter.pdb
+C:\Users\Mert\source\repos\Exam Preparation\Problem 5 - Truffle Hunter\obj\Debug\netcoreapp3.1\Problem 5 - Truffle Hunter.genruntimeconfig.cache

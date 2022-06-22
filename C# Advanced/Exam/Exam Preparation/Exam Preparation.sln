@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1 - Meal Plan", "Problem 1 - Meal Plan\Problem 1 - Meal Plan.csproj", "{441BBADC-A3FA-445A-99DF-54911A45527B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 1 - Meal Plan", "Problem 1 - Meal Plan\Problem 1 - Meal Plan.csproj", "{441BBADC-A3FA-445A-99DF-54911A45527B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2 - Beaver at work", "Problem 2 - Beaver at work\Problem 2 - Beaver at work.csproj", "{9502AB7C-E29B-42C1-B066-0EDB914518E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 2 - Beaver at work", "Problem 2 - Beaver at work\Problem 2 - Beaver at work.csproj", "{9502AB7C-E29B-42C1-B066-0EDB914518E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3 - Drones", "Problem 3 - Drones\Problem 3 - Drones.csproj", "{A0EB0100-A8AD-4B5C-817A-5C410D5F916D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 3 - Drones", "Problem 3 - Drones\Problem 3 - Drones.csproj", "{A0EB0100-A8AD-4B5C-817A-5C410D5F916D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4 - Blacksmith", "Problem 4 - Blacksmith\Problem 4 - Blacksmith.csproj", "{9C2C08A9-166F-4DAC-844E-54173C63BD1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5 - Truffle Hunter", "Problem 5 - Truffle Hunter\Problem 5 - Truffle Hunter.csproj", "{0EEEDEBA-3908-4FA7-801A-F2F2BEF131B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 6 - Stock Market", "Problem 6 - Stock Market\Problem 6 - Stock Market.csproj", "{D118DCD3-61AC-46E5-BACB-459AAE112A7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{A0EB0100-A8AD-4B5C-817A-5C410D5F916D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0EB0100-A8AD-4B5C-817A-5C410D5F916D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0EB0100-A8AD-4B5C-817A-5C410D5F916D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C2C08A9-166F-4DAC-844E-54173C63BD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2C08A9-166F-4DAC-844E-54173C63BD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2C08A9-166F-4DAC-844E-54173C63BD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2C08A9-166F-4DAC-844E-54173C63BD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EEEDEBA-3908-4FA7-801A-F2F2BEF131B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEEDEBA-3908-4FA7-801A-F2F2BEF131B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEEDEBA-3908-4FA7-801A-F2F2BEF131B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEEDEBA-3908-4FA7-801A-F2F2BEF131B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D118DCD3-61AC-46E5-BACB-459AAE112A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D118DCD3-61AC-46E5-BACB-459AAE112A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D118DCD3-61AC-46E5-BACB-459AAE112A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D118DCD3-61AC-46E5-BACB-459AAE112A7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

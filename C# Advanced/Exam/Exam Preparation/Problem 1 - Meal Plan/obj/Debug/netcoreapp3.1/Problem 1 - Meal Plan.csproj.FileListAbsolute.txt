@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Exam Preparation\Problem 1 - Meal Plan\bin\Debug\netcoreapp3.1\Problem 1 - Meal Plan.exe
+C:\Users\Mert\source\repos\Exam Preparation\Problem 1 - Meal Plan\bin\Debug\netcoreapp3.1\Problem 1 - Meal Plan.deps.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 1 - Meal Plan\bin\Debug\netcoreapp3.1\Problem 1 - Meal Plan.runtimeconfig.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 1 - Meal Plan\bin\Debug\netcoreapp3.1\Problem 1 - Meal Plan.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 1 - Meal Plan\bin\Debug\netcoreapp3.1\Problem 1 - Meal Plan.dll
+C:\Users\Mert\source\repos\Exam Preparation\Problem 1 - Meal Plan\bin\Debug\netcoreapp3.1\Problem 1 - Meal Plan.pdb
+C:\Users\Mert\source\repos\Exam Preparation\Problem 1 - Meal Plan\obj\Debug\netcoreapp3.1\Problem 1 - Meal Plan.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 1 - Meal Plan\obj\Debug\netcoreapp3.1\Problem 1 - Meal Plan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Exam Preparation\Problem 1 - Meal Plan\obj\Debug\netcoreapp3.1\Problem 1 - Meal Plan.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 1 - Meal Plan\obj\Debug\netcoreapp3.1\Problem 1 - Meal Plan.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Exam Preparation\Problem 1 - Meal Plan\obj\Debug\netcoreapp3.1\Problem 1 - Meal Plan.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 1 - Meal Plan\obj\Debug\netcoreapp3.1\Problem 1 - Meal Plan.dll
+C:\Users\Mert\source\repos\Exam Preparation\Problem 1 - Meal Plan\obj\Debug\netcoreapp3.1\Problem 1 - Meal Plan.pdb
+C:\Users\Mert\source\repos\Exam Preparation\Problem 1 - Meal Plan\obj\Debug\netcoreapp3.1\Problem 1 - Meal Plan.genruntimeconfig.cache

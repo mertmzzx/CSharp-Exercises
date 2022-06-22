@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Exam Preparation\Problem 6 - Stock Market\bin\Debug\netcoreapp3.1\Problem 6 - Stock Market.exe
+C:\Users\Mert\source\repos\Exam Preparation\Problem 6 - Stock Market\bin\Debug\netcoreapp3.1\Problem 6 - Stock Market.deps.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 6 - Stock Market\bin\Debug\netcoreapp3.1\Problem 6 - Stock Market.runtimeconfig.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 6 - Stock Market\bin\Debug\netcoreapp3.1\Problem 6 - Stock Market.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 6 - Stock Market\bin\Debug\netcoreapp3.1\Problem 6 - Stock Market.dll
+C:\Users\Mert\source\repos\Exam Preparation\Problem 6 - Stock Market\bin\Debug\netcoreapp3.1\Problem 6 - Stock Market.pdb
+C:\Users\Mert\source\repos\Exam Preparation\Problem 6 - Stock Market\obj\Debug\netcoreapp3.1\Problem 6 - Stock Market.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 6 - Stock Market\obj\Debug\netcoreapp3.1\Problem 6 - Stock Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Exam Preparation\Problem 6 - Stock Market\obj\Debug\netcoreapp3.1\Problem 6 - Stock Market.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 6 - Stock Market\obj\Debug\netcoreapp3.1\Problem 6 - Stock Market.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Exam Preparation\Problem 6 - Stock Market\obj\Debug\netcoreapp3.1\Problem 6 - Stock Market.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 6 - Stock Market\obj\Debug\netcoreapp3.1\Problem 6 - Stock Market.dll
+C:\Users\Mert\source\repos\Exam Preparation\Problem 6 - Stock Market\obj\Debug\netcoreapp3.1\Problem 6 - Stock Market.pdb
+C:\Users\Mert\source\repos\Exam Preparation\Problem 6 - Stock Market\obj\Debug\netcoreapp3.1\Problem 6 - Stock Market.genruntimeconfig.cache
