@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Exam Preparation\Problem 9 - Street Racing\bin\Debug\netcoreapp3.1\Problem 9 - Street Racing.exe
+C:\Users\Mert\source\repos\Exam Preparation\Problem 9 - Street Racing\bin\Debug\netcoreapp3.1\Problem 9 - Street Racing.deps.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 9 - Street Racing\bin\Debug\netcoreapp3.1\Problem 9 - Street Racing.runtimeconfig.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 9 - Street Racing\bin\Debug\netcoreapp3.1\Problem 9 - Street Racing.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 9 - Street Racing\bin\Debug\netcoreapp3.1\Problem 9 - Street Racing.dll
+C:\Users\Mert\source\repos\Exam Preparation\Problem 9 - Street Racing\bin\Debug\netcoreapp3.1\Problem 9 - Street Racing.pdb
+C:\Users\Mert\source\repos\Exam Preparation\Problem 9 - Street Racing\obj\Debug\netcoreapp3.1\Problem 9 - Street Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Exam Preparation\Problem 9 - Street Racing\obj\Debug\netcoreapp3.1\Problem 9 - Street Racing.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 9 - Street Racing\obj\Debug\netcoreapp3.1\Problem 9 - Street Racing.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Exam Preparation\Problem 9 - Street Racing\obj\Debug\netcoreapp3.1\Problem 9 - Street Racing.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 9 - Street Racing\obj\Debug\netcoreapp3.1\Problem 9 - Street Racing.dll
+C:\Users\Mert\source\repos\Exam Preparation\Problem 9 - Street Racing\obj\Debug\netcoreapp3.1\Problem 9 - Street Racing.pdb
+C:\Users\Mert\source\repos\Exam Preparation\Problem 9 - Street Racing\obj\Debug\netcoreapp3.1\Problem 9 - Street Racing.genruntimeconfig.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 9 - Street Racing\obj\Debug\netcoreapp3.1\Problem 9 - Street Racing.csproj.AssemblyReference.cache

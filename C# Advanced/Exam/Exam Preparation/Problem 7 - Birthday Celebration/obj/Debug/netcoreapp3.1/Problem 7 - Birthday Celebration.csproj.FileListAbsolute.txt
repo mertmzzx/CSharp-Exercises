@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Exam Preparation\Problem 7 - Birthday Celebration\bin\Debug\netcoreapp3.1\Problem 7 - Birthday Celebration.exe
+C:\Users\Mert\source\repos\Exam Preparation\Problem 7 - Birthday Celebration\bin\Debug\netcoreapp3.1\Problem 7 - Birthday Celebration.deps.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 7 - Birthday Celebration\bin\Debug\netcoreapp3.1\Problem 7 - Birthday Celebration.runtimeconfig.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 7 - Birthday Celebration\bin\Debug\netcoreapp3.1\Problem 7 - Birthday Celebration.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 7 - Birthday Celebration\bin\Debug\netcoreapp3.1\Problem 7 - Birthday Celebration.dll
+C:\Users\Mert\source\repos\Exam Preparation\Problem 7 - Birthday Celebration\bin\Debug\netcoreapp3.1\Problem 7 - Birthday Celebration.pdb
+C:\Users\Mert\source\repos\Exam Preparation\Problem 7 - Birthday Celebration\obj\Debug\netcoreapp3.1\Problem 7 - Birthday Celebration.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 7 - Birthday Celebration\obj\Debug\netcoreapp3.1\Problem 7 - Birthday Celebration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Exam Preparation\Problem 7 - Birthday Celebration\obj\Debug\netcoreapp3.1\Problem 7 - Birthday Celebration.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 7 - Birthday Celebration\obj\Debug\netcoreapp3.1\Problem 7 - Birthday Celebration.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Exam Preparation\Problem 7 - Birthday Celebration\obj\Debug\netcoreapp3.1\Problem 7 - Birthday Celebration.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 7 - Birthday Celebration\obj\Debug\netcoreapp3.1\Problem 7 - Birthday Celebration.dll
+C:\Users\Mert\source\repos\Exam Preparation\Problem 7 - Birthday Celebration\obj\Debug\netcoreapp3.1\Problem 7 - Birthday Celebration.pdb
+C:\Users\Mert\source\repos\Exam Preparation\Problem 7 - Birthday Celebration\obj\Debug\netcoreapp3.1\Problem 7 - Birthday Celebration.genruntimeconfig.cache

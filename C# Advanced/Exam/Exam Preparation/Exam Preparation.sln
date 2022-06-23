@@ -9,11 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 2 - Beaver at work"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 3 - Drones", "Problem 3 - Drones\Problem 3 - Drones.csproj", "{A0EB0100-A8AD-4B5C-817A-5C410D5F916D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4 - Blacksmith", "Problem 4 - Blacksmith\Problem 4 - Blacksmith.csproj", "{9C2C08A9-166F-4DAC-844E-54173C63BD1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 4 - Blacksmith", "Problem 4 - Blacksmith\Problem 4 - Blacksmith.csproj", "{9C2C08A9-166F-4DAC-844E-54173C63BD1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5 - Truffle Hunter", "Problem 5 - Truffle Hunter\Problem 5 - Truffle Hunter.csproj", "{0EEEDEBA-3908-4FA7-801A-F2F2BEF131B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 5 - Truffle Hunter", "Problem 5 - Truffle Hunter\Problem 5 - Truffle Hunter.csproj", "{0EEEDEBA-3908-4FA7-801A-F2F2BEF131B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 6 - Stock Market", "Problem 6 - Stock Market\Problem 6 - Stock Market.csproj", "{D118DCD3-61AC-46E5-BACB-459AAE112A7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 6 - Stock Market", "Problem 6 - Stock Market\Problem 6 - Stock Market.csproj", "{D118DCD3-61AC-46E5-BACB-459AAE112A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 7 - Birthday Celebration", "Problem 7 - Birthday Celebration\Problem 7 - Birthday Celebration.csproj", "{8359E04F-8753-4857-B3C9-35B842D11E9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 8 - The Battle of The Five Armies", "Problem 8 - The Battle of The Five Armies\Problem 8 - The Battle of The Five Armies.csproj", "{63AB2E53-CEB2-4940-8720-8319E2659173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 9 - Street Racing", "Problem 9 - Street Racing\Problem 9 - Street Racing.csproj", "{B58B2494-0C8A-40E6-A716-2891A23111A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{D118DCD3-61AC-46E5-BACB-459AAE112A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D118DCD3-61AC-46E5-BACB-459AAE112A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D118DCD3-61AC-46E5-BACB-459AAE112A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8359E04F-8753-4857-B3C9-35B842D11E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8359E04F-8753-4857-B3C9-35B842D11E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8359E04F-8753-4857-B3C9-35B842D11E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8359E04F-8753-4857-B3C9-35B842D11E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63AB2E53-CEB2-4940-8720-8319E2659173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AB2E53-CEB2-4940-8720-8319E2659173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AB2E53-CEB2-4940-8720-8319E2659173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AB2E53-CEB2-4940-8720-8319E2659173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58B2494-0C8A-40E6-A716-2891A23111A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58B2494-0C8A-40E6-A716-2891A23111A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58B2494-0C8A-40E6-A716-2891A23111A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58B2494-0C8A-40E6-A716-2891A23111A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

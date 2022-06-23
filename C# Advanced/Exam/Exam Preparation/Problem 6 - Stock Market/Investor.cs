@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace StockMarket
 {
@@ -32,25 +33,20 @@ namespace StockMarket
 
         public string SellStock(string companyName, decimal sellPrice)
         {
-            foreach (var stock in Portfolio)
-            {
-                if (stock.CompanyName == companyName)
-                {
-                    if (sellPrice < stock.PricePerShare)
-                    {
-                        return $"Cannot sell {companyName}";
-                    }
-                    else
-                    {
-                        Portfolio.Remove(stock);
-                        MoneyToInvest += sellPrice;
+            var company = Portfolio.Find(company => company.CompanyName == companyName);
 
-                        return $"{companyName} was sold.";
-                    }
-                }
+            if (company == null)
+            {
+                return $"{companyName} does not exist.";
+            }
+            if (company.PricePerShare > sellPrice)
+            {
+                return $"Cannot sell {companyName}.";
             }
 
-            return $"{companyName} does not exist.";
+            Portfolio.Remove(company);
+            MoneyToInvest += sellPrice;
+            return $"{companyName} was sold.";
         }
 
         public Stock FindStock(string companyName)
@@ -91,7 +87,12 @@ namespace StockMarket
 
         public string InvestorInformation()
         {
-            return $"The investor {FullName} with a broker {BrokerName} has stocks:" + string.Join(Environment.NewLine, Portfolio);
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"The investor {FullName} with a broker {BrokerName} has stocks:");
+            sb.AppendLine(string.Join(Environment.NewLine, Portfolio));
+
+            return sb.ToString().TrimEnd();
         }
     }
 }
