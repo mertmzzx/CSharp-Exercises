@@ -3,23 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 1 - Meal Plan", "Problem 1 - Meal Plan\Problem 1 - Meal Plan.csproj", "{441BBADC-A3FA-445A-99DF-54911A45527B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01 - Meal Plan", "Problem 1 - Meal Plan\P01 - Meal Plan.csproj", "{441BBADC-A3FA-445A-99DF-54911A45527B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 2 - Beaver at work", "Problem 2 - Beaver at work\Problem 2 - Beaver at work.csproj", "{9502AB7C-E29B-42C1-B066-0EDB914518E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02 - Beaver at work", "Problem 2 - Beaver at work\P02 - Beaver at work.csproj", "{9502AB7C-E29B-42C1-B066-0EDB914518E8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 3 - Drones", "Problem 3 - Drones\Problem 3 - Drones.csproj", "{A0EB0100-A8AD-4B5C-817A-5C410D5F916D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03 - Drones", "Problem 3 - Drones\P03 - Drones.csproj", "{A0EB0100-A8AD-4B5C-817A-5C410D5F916D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 4 - Blacksmith", "Problem 4 - Blacksmith\Problem 4 - Blacksmith.csproj", "{9C2C08A9-166F-4DAC-844E-54173C63BD1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04 - Blacksmith", "Problem 4 - Blacksmith\P04 - Blacksmith.csproj", "{9C2C08A9-166F-4DAC-844E-54173C63BD1E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 5 - Truffle Hunter", "Problem 5 - Truffle Hunter\Problem 5 - Truffle Hunter.csproj", "{0EEEDEBA-3908-4FA7-801A-F2F2BEF131B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05 - Truffle Hunter", "Problem 5 - Truffle Hunter\P05 - Truffle Hunter.csproj", "{0EEEDEBA-3908-4FA7-801A-F2F2BEF131B3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 6 - Stock Market", "Problem 6 - Stock Market\Problem 6 - Stock Market.csproj", "{D118DCD3-61AC-46E5-BACB-459AAE112A7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P06 - Stock Market", "Problem 6 - Stock Market\P06 - Stock Market.csproj", "{D118DCD3-61AC-46E5-BACB-459AAE112A7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 7 - Birthday Celebration", "Problem 7 - Birthday Celebration\Problem 7 - Birthday Celebration.csproj", "{8359E04F-8753-4857-B3C9-35B842D11E9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P07 - Birthday Celebration", "Problem 7 - Birthday Celebration\P07 - Birthday Celebration.csproj", "{8359E04F-8753-4857-B3C9-35B842D11E9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 8 - The Battle of The Five Armies", "Problem 8 - The Battle of The Five Armies\Problem 8 - The Battle of The Five Armies.csproj", "{63AB2E53-CEB2-4940-8720-8319E2659173}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P08 - The Battle of The Five Armies", "Problem 8 - The Battle of The Five Armies\P08 - The Battle of The Five Armies.csproj", "{63AB2E53-CEB2-4940-8720-8319E2659173}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 9 - Street Racing", "Problem 9 - Street Racing\Problem 9 - Street Racing.csproj", "{B58B2494-0C8A-40E6-A716-2891A23111A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P09 - Street Racing", "Problem 9 - Street Racing\P09 - Street Racing.csproj", "{B58B2494-0C8A-40E6-A716-2891A23111A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10 - The Fight for Gondor", "Problem 10 - The Fight for Gondor\P10 - The Fight for Gondor.csproj", "{97F3EC40-24DA-4826-80CD-E21EEE311F3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11 - Warships", "Problem 11 - Warships\P11 - Warships.csproj", "{AEA3F3AD-F87C-4AE5-8BB9-4EF32F912C03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12 - The Race", "P12 - The Race\P12 - The Race.csproj", "{47AF5757-35EA-40A6-9BCC-5B37811AC3BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{B58B2494-0C8A-40E6-A716-2891A23111A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B58B2494-0C8A-40E6-A716-2891A23111A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B58B2494-0C8A-40E6-A716-2891A23111A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97F3EC40-24DA-4826-80CD-E21EEE311F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F3EC40-24DA-4826-80CD-E21EEE311F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F3EC40-24DA-4826-80CD-E21EEE311F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F3EC40-24DA-4826-80CD-E21EEE311F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA3F3AD-F87C-4AE5-8BB9-4EF32F912C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA3F3AD-F87C-4AE5-8BB9-4EF32F912C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA3F3AD-F87C-4AE5-8BB9-4EF32F912C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA3F3AD-F87C-4AE5-8BB9-4EF32F912C03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47AF5757-35EA-40A6-9BCC-5B37811AC3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AF5757-35EA-40A6-9BCC-5B37811AC3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AF5757-35EA-40A6-9BCC-5B37811AC3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AF5757-35EA-40A6-9BCC-5B37811AC3BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

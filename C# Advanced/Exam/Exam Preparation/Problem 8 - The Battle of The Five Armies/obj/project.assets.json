@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 8 - The Battle of The Five Armies\\Problem 8 - The Battle of The Five Armies.csproj",
-      "projectName": "Problem 8 - The Battle of The Five Armies",
-      "projectPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 8 - The Battle of The Five Armies\\Problem 8 - The Battle of The Five Armies.csproj",
+      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 8 - The Battle of The Five Armies\\P08 - The Battle of The Five Armies.csproj",
+      "projectName": "P08 - The Battle of The Five Armies",
+      "projectPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 8 - The Battle of The Five Armies\\P08 - The Battle of The Five Armies.csproj",
       "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 8 - The Battle of The Five Armies\\obj\\",
       "projectStyle": "PackageReference",

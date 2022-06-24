@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 6 - Stock Market\\Problem 6 - Stock Market.csproj",
-      "projectName": "Problem 6 - Stock Market",
-      "projectPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 6 - Stock Market\\Problem 6 - Stock Market.csproj",
+      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 6 - Stock Market\\P06 - Stock Market.csproj",
+      "projectName": "P06 - Stock Market",
+      "projectPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 6 - Stock Market\\P06 - Stock Market.csproj",
       "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 6 - Stock Market\\obj\\",
       "projectStyle": "PackageReference",

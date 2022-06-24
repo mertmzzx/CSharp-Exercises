@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Exam Preparation\Problem 11 - Warships\bin\Debug\netcoreapp3.1\P11 - Warships.exe
+C:\Users\Mert\source\repos\Exam Preparation\Problem 11 - Warships\bin\Debug\netcoreapp3.1\P11 - Warships.deps.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 11 - Warships\bin\Debug\netcoreapp3.1\P11 - Warships.runtimeconfig.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 11 - Warships\bin\Debug\netcoreapp3.1\P11 - Warships.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Exam Preparation\Problem 11 - Warships\bin\Debug\netcoreapp3.1\P11 - Warships.dll
+C:\Users\Mert\source\repos\Exam Preparation\Problem 11 - Warships\bin\Debug\netcoreapp3.1\P11 - Warships.pdb
+C:\Users\Mert\source\repos\Exam Preparation\Problem 11 - Warships\obj\Debug\netcoreapp3.1\P11 - Warships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Exam Preparation\Problem 11 - Warships\obj\Debug\netcoreapp3.1\P11 - Warships.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 11 - Warships\obj\Debug\netcoreapp3.1\P11 - Warships.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Exam Preparation\Problem 11 - Warships\obj\Debug\netcoreapp3.1\P11 - Warships.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 11 - Warships\obj\Debug\netcoreapp3.1\P11 - Warships.dll
+C:\Users\Mert\source\repos\Exam Preparation\Problem 11 - Warships\obj\Debug\netcoreapp3.1\P11 - Warships.pdb
+C:\Users\Mert\source\repos\Exam Preparation\Problem 11 - Warships\obj\Debug\netcoreapp3.1\P11 - Warships.genruntimeconfig.cache
+C:\Users\Mert\source\repos\Exam Preparation\Problem 11 - Warships\obj\Debug\netcoreapp3.1\P11 - Warships.csproj.AssemblyReference.cache

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 5 - Truffle Hunter\\Problem 5 - Truffle Hunter.csproj",
-      "projectName": "Problem 5 - Truffle Hunter",
-      "projectPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 5 - Truffle Hunter\\Problem 5 - Truffle Hunter.csproj",
+      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 5 - Truffle Hunter\\P05 - Truffle Hunter.csproj",
+      "projectName": "P05 - Truffle Hunter",
+      "projectPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 5 - Truffle Hunter\\P05 - Truffle Hunter.csproj",
       "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 5 - Truffle Hunter\\obj\\",
       "projectStyle": "PackageReference",

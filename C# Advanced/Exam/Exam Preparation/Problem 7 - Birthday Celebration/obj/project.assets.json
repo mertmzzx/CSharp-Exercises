@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 7 - Birthday Celebration\\Problem 7 - Birthday Celebration.csproj",
-      "projectName": "Problem 7 - Birthday Celebration",
-      "projectPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 7 - Birthday Celebration\\Problem 7 - Birthday Celebration.csproj",
+      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 7 - Birthday Celebration\\P07 - Birthday Celebration.csproj",
+      "projectName": "P07 - Birthday Celebration",
+      "projectPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 7 - Birthday Celebration\\P07 - Birthday Celebration.csproj",
       "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 7 - Birthday Celebration\\obj\\",
       "projectStyle": "PackageReference",

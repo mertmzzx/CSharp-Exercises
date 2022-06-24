@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 4 - Blacksmith\\Problem 4 - Blacksmith.csproj",
-      "projectName": "Problem 4 - Blacksmith",
-      "projectPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 4 - Blacksmith\\Problem 4 - Blacksmith.csproj",
+      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 4 - Blacksmith\\P04 - Blacksmith.csproj",
+      "projectName": "P04 - Blacksmith",
+      "projectPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 4 - Blacksmith\\P04 - Blacksmith.csproj",
       "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 4 - Blacksmith\\obj\\",
       "projectStyle": "PackageReference",

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 2 - Beaver at work\\Problem 2 - Beaver at work.csproj",
-      "projectName": "Problem 2 - Beaver at work",
-      "projectPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 2 - Beaver at work\\Problem 2 - Beaver at work.csproj",
+      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 2 - Beaver at work\\P02 - Beaver at work.csproj",
+      "projectName": "P02 - Beaver at work",
+      "projectPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 2 - Beaver at work\\P02 - Beaver at work.csproj",
       "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 2 - Beaver at work\\obj\\",
       "projectStyle": "PackageReference",

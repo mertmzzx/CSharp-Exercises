@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 9 - Street Racing\\Problem 9 - Street Racing.csproj",
-      "projectName": "Problem 9 - Street Racing",
-      "projectPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 9 - Street Racing\\Problem 9 - Street Racing.csproj",
+      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 9 - Street Racing\\P09 - Street Racing.csproj",
+      "projectName": "P09 - Street Racing",
+      "projectPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 9 - Street Racing\\P09 - Street Racing.csproj",
       "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Mert\\source\\repos\\Exam Preparation\\Problem 9 - Street Racing\\obj\\",
       "projectStyle": "PackageReference",
