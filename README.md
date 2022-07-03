@@ -39,5 +39,6 @@ They are intended **only** for educational purposes.
 **7.** [Generics](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Advanced/Generics)<br />
 **8.** [Iterators and Comparators](https://github.com/mertmzzx/SoftUni-Exercises/tree/main/C%23%20Advanced/Iterators%20and%20Comparators)<br />
 **9.** [Algorithms Introduction]()<br />
+
 ------------------
 ### OOP
