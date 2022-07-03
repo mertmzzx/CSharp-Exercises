@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Inheritance - Lab\T01. Single Inheritance\bin\Debug\netcoreapp3.1\T01. Single Inheritance.exe
+C:\Users\Mert\source\repos\Inheritance - Lab\T01. Single Inheritance\bin\Debug\netcoreapp3.1\T01. Single Inheritance.deps.json
+C:\Users\Mert\source\repos\Inheritance - Lab\T01. Single Inheritance\bin\Debug\netcoreapp3.1\T01. Single Inheritance.runtimeconfig.json
+C:\Users\Mert\source\repos\Inheritance - Lab\T01. Single Inheritance\bin\Debug\netcoreapp3.1\T01. Single Inheritance.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Inheritance - Lab\T01. Single Inheritance\bin\Debug\netcoreapp3.1\T01. Single Inheritance.dll
+C:\Users\Mert\source\repos\Inheritance - Lab\T01. Single Inheritance\bin\Debug\netcoreapp3.1\T01. Single Inheritance.pdb
+C:\Users\Mert\source\repos\Inheritance - Lab\T01. Single Inheritance\obj\Debug\netcoreapp3.1\T01. Single Inheritance.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Inheritance - Lab\T01. Single Inheritance\obj\Debug\netcoreapp3.1\T01. Single Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Inheritance - Lab\T01. Single Inheritance\obj\Debug\netcoreapp3.1\T01. Single Inheritance.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Inheritance - Lab\T01. Single Inheritance\obj\Debug\netcoreapp3.1\T01. Single Inheritance.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Inheritance - Lab\T01. Single Inheritance\obj\Debug\netcoreapp3.1\T01. Single Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Inheritance - Lab\T01. Single Inheritance\obj\Debug\netcoreapp3.1\T01. Single Inheritance.dll
+C:\Users\Mert\source\repos\Inheritance - Lab\T01. Single Inheritance\obj\Debug\netcoreapp3.1\T01. Single Inheritance.pdb
+C:\Users\Mert\source\repos\Inheritance - Lab\T01. Single Inheritance\obj\Debug\netcoreapp3.1\T01. Single Inheritance.genruntimeconfig.cache
