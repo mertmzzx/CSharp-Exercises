@@ -11,7 +11,7 @@ namespace NeedForSpeed
 
         }
 
-        public virtual double FuelConsumption
+        public override double FuelConsumption
         {
             get => 8.00;
         }
