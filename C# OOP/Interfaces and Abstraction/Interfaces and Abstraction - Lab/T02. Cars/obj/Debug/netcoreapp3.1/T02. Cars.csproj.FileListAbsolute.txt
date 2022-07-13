@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T02. Cars\bin\Debug\netcoreapp3.1\T02. Cars.exe
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T02. Cars\bin\Debug\netcoreapp3.1\T02. Cars.deps.json
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T02. Cars\bin\Debug\netcoreapp3.1\T02. Cars.runtimeconfig.json
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T02. Cars\bin\Debug\netcoreapp3.1\T02. Cars.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T02. Cars\bin\Debug\netcoreapp3.1\T02. Cars.dll
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T02. Cars\bin\Debug\netcoreapp3.1\T02. Cars.pdb
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T02. Cars\obj\Debug\netcoreapp3.1\T02. Cars.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T02. Cars\obj\Debug\netcoreapp3.1\T02. Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T02. Cars\obj\Debug\netcoreapp3.1\T02. Cars.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T02. Cars\obj\Debug\netcoreapp3.1\T02. Cars.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T02. Cars\obj\Debug\netcoreapp3.1\T02. Cars.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T02. Cars\obj\Debug\netcoreapp3.1\T02. Cars.dll
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T02. Cars\obj\Debug\netcoreapp3.1\T02. Cars.pdb
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T02. Cars\obj\Debug\netcoreapp3.1\T02. Cars.genruntimeconfig.cache

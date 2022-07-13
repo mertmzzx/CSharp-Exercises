@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T01. Shapes\bin\Debug\netcoreapp3.1\T01. Shapes.exe
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T01. Shapes\bin\Debug\netcoreapp3.1\T01. Shapes.deps.json
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T01. Shapes\bin\Debug\netcoreapp3.1\T01. Shapes.runtimeconfig.json
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T01. Shapes\bin\Debug\netcoreapp3.1\T01. Shapes.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T01. Shapes\bin\Debug\netcoreapp3.1\T01. Shapes.dll
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T01. Shapes\bin\Debug\netcoreapp3.1\T01. Shapes.pdb
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T01. Shapes\obj\Debug\netcoreapp3.1\T01. Shapes.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T01. Shapes\obj\Debug\netcoreapp3.1\T01. Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T01. Shapes\obj\Debug\netcoreapp3.1\T01. Shapes.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T01. Shapes\obj\Debug\netcoreapp3.1\T01. Shapes.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T01. Shapes\obj\Debug\netcoreapp3.1\T01. Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T01. Shapes\obj\Debug\netcoreapp3.1\T01. Shapes.dll
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T01. Shapes\obj\Debug\netcoreapp3.1\T01. Shapes.pdb
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Lab\T01. Shapes\obj\Debug\netcoreapp3.1\T01. Shapes.genruntimeconfig.cache

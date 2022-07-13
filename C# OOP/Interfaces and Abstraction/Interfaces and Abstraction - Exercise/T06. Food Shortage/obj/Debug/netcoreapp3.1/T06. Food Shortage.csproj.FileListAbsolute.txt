@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T06. Food Shortage\bin\Debug\netcoreapp3.1\T06. Food Shortage.exe
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T06. Food Shortage\bin\Debug\netcoreapp3.1\T06. Food Shortage.deps.json
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T06. Food Shortage\bin\Debug\netcoreapp3.1\T06. Food Shortage.runtimeconfig.json
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T06. Food Shortage\bin\Debug\netcoreapp3.1\T06. Food Shortage.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T06. Food Shortage\bin\Debug\netcoreapp3.1\T06. Food Shortage.dll
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T06. Food Shortage\bin\Debug\netcoreapp3.1\T06. Food Shortage.pdb
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T06. Food Shortage\obj\Debug\netcoreapp3.1\T06. Food Shortage.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T06. Food Shortage\obj\Debug\netcoreapp3.1\T06. Food Shortage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T06. Food Shortage\obj\Debug\netcoreapp3.1\T06. Food Shortage.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T06. Food Shortage\obj\Debug\netcoreapp3.1\T06. Food Shortage.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T06. Food Shortage\obj\Debug\netcoreapp3.1\T06. Food Shortage.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T06. Food Shortage\obj\Debug\netcoreapp3.1\T06. Food Shortage.dll
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T06. Food Shortage\obj\Debug\netcoreapp3.1\T06. Food Shortage.pdb
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T06. Food Shortage\obj\Debug\netcoreapp3.1\T06. Food Shortage.genruntimeconfig.cache

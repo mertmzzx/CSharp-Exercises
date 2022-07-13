@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T02. Multiple Implementation\bin\Debug\netcoreapp3.1\T02. Multiple Implementation.exe
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T02. Multiple Implementation\bin\Debug\netcoreapp3.1\T02. Multiple Implementation.deps.json
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T02. Multiple Implementation\bin\Debug\netcoreapp3.1\T02. Multiple Implementation.runtimeconfig.json
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T02. Multiple Implementation\bin\Debug\netcoreapp3.1\T02. Multiple Implementation.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T02. Multiple Implementation\bin\Debug\netcoreapp3.1\T02. Multiple Implementation.dll
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T02. Multiple Implementation\bin\Debug\netcoreapp3.1\T02. Multiple Implementation.pdb
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T02. Multiple Implementation\obj\Debug\netcoreapp3.1\T02. Multiple Implementation.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T02. Multiple Implementation\obj\Debug\netcoreapp3.1\T02. Multiple Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T02. Multiple Implementation\obj\Debug\netcoreapp3.1\T02. Multiple Implementation.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T02. Multiple Implementation\obj\Debug\netcoreapp3.1\T02. Multiple Implementation.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T02. Multiple Implementation\obj\Debug\netcoreapp3.1\T02. Multiple Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T02. Multiple Implementation\obj\Debug\netcoreapp3.1\T02. Multiple Implementation.dll
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T02. Multiple Implementation\obj\Debug\netcoreapp3.1\T02. Multiple Implementation.pdb
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T02. Multiple Implementation\obj\Debug\netcoreapp3.1\T02. Multiple Implementation.genruntimeconfig.cache

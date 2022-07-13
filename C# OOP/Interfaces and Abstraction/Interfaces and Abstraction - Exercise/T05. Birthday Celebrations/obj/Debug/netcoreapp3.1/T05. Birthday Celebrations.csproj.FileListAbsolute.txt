@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T05. Birthday Celebrations\bin\Debug\netcoreapp3.1\T05. Birthday Celebrations.exe
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T05. Birthday Celebrations\bin\Debug\netcoreapp3.1\T05. Birthday Celebrations.deps.json
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T05. Birthday Celebrations\bin\Debug\netcoreapp3.1\T05. Birthday Celebrations.runtimeconfig.json
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T05. Birthday Celebrations\bin\Debug\netcoreapp3.1\T05. Birthday Celebrations.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T05. Birthday Celebrations\bin\Debug\netcoreapp3.1\T05. Birthday Celebrations.dll
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T05. Birthday Celebrations\bin\Debug\netcoreapp3.1\T05. Birthday Celebrations.pdb
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T05. Birthday Celebrations\obj\Debug\netcoreapp3.1\T05. Birthday Celebrations.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T05. Birthday Celebrations\obj\Debug\netcoreapp3.1\T05. Birthday Celebrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T05. Birthday Celebrations\obj\Debug\netcoreapp3.1\T05. Birthday Celebrations.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T05. Birthday Celebrations\obj\Debug\netcoreapp3.1\T05. Birthday Celebrations.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T05. Birthday Celebrations\obj\Debug\netcoreapp3.1\T05. Birthday Celebrations.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T05. Birthday Celebrations\obj\Debug\netcoreapp3.1\T05. Birthday Celebrations.dll
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T05. Birthday Celebrations\obj\Debug\netcoreapp3.1\T05. Birthday Celebrations.pdb
+C:\Users\Mert\source\repos\Interfaces and Abstraction - Exercise\T05. Birthday Celebrations\obj\Debug\netcoreapp3.1\T05. Birthday Celebrations.genruntimeconfig.cache
