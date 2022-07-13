@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T03. Shopping Spree\bin\Debug\netcoreapp3.1\T03. Shopping Spree.exe
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T03. Shopping Spree\bin\Debug\netcoreapp3.1\T03. Shopping Spree.deps.json
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T03. Shopping Spree\bin\Debug\netcoreapp3.1\T03. Shopping Spree.runtimeconfig.json
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T03. Shopping Spree\bin\Debug\netcoreapp3.1\T03. Shopping Spree.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T03. Shopping Spree\bin\Debug\netcoreapp3.1\T03. Shopping Spree.dll
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T03. Shopping Spree\bin\Debug\netcoreapp3.1\T03. Shopping Spree.pdb
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T03. Shopping Spree\obj\Debug\netcoreapp3.1\T03. Shopping Spree.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T03. Shopping Spree\obj\Debug\netcoreapp3.1\T03. Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T03. Shopping Spree\obj\Debug\netcoreapp3.1\T03. Shopping Spree.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T03. Shopping Spree\obj\Debug\netcoreapp3.1\T03. Shopping Spree.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T03. Shopping Spree\obj\Debug\netcoreapp3.1\T03. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T03. Shopping Spree\obj\Debug\netcoreapp3.1\T03. Shopping Spree.dll
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T03. Shopping Spree\obj\Debug\netcoreapp3.1\T03. Shopping Spree.pdb
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T03. Shopping Spree\obj\Debug\netcoreapp3.1\T03. Shopping Spree.genruntimeconfig.cache

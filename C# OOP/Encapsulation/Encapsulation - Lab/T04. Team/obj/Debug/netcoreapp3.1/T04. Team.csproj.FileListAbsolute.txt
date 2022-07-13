@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Encapsulation - Lab\T04. Team\bin\Debug\netcoreapp3.1\T04. Team.exe
+C:\Users\Mert\source\repos\Encapsulation - Lab\T04. Team\bin\Debug\netcoreapp3.1\T04. Team.deps.json
+C:\Users\Mert\source\repos\Encapsulation - Lab\T04. Team\bin\Debug\netcoreapp3.1\T04. Team.runtimeconfig.json
+C:\Users\Mert\source\repos\Encapsulation - Lab\T04. Team\bin\Debug\netcoreapp3.1\T04. Team.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Encapsulation - Lab\T04. Team\bin\Debug\netcoreapp3.1\T04. Team.dll
+C:\Users\Mert\source\repos\Encapsulation - Lab\T04. Team\bin\Debug\netcoreapp3.1\T04. Team.pdb
+C:\Users\Mert\source\repos\Encapsulation - Lab\T04. Team\obj\Debug\netcoreapp3.1\T04. Team.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Encapsulation - Lab\T04. Team\obj\Debug\netcoreapp3.1\T04. Team.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Encapsulation - Lab\T04. Team\obj\Debug\netcoreapp3.1\T04. Team.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Encapsulation - Lab\T04. Team\obj\Debug\netcoreapp3.1\T04. Team.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Encapsulation - Lab\T04. Team\obj\Debug\netcoreapp3.1\T04. Team.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Encapsulation - Lab\T04. Team\obj\Debug\netcoreapp3.1\T04. Team.dll
+C:\Users\Mert\source\repos\Encapsulation - Lab\T04. Team\obj\Debug\netcoreapp3.1\T04. Team.pdb
+C:\Users\Mert\source\repos\Encapsulation - Lab\T04. Team\obj\Debug\netcoreapp3.1\T04. Team.genruntimeconfig.cache

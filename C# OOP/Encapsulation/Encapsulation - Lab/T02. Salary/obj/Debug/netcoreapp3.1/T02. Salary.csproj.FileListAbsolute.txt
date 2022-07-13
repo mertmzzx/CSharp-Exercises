@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Encapsulation - Lab\T02. Salary\obj\Debug\netcoreapp3.1\T02. Salary.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Encapsulation - Lab\T02. Salary\obj\Debug\netcoreapp3.1\T02. Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Encapsulation - Lab\T02. Salary\obj\Debug\netcoreapp3.1\T02. Salary.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Encapsulation - Lab\T02. Salary\obj\Debug\netcoreapp3.1\T02. Salary.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Encapsulation - Lab\T02. Salary\obj\Debug\netcoreapp3.1\T02. Salary.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Encapsulation - Lab\T02. Salary\bin\Debug\netcoreapp3.1\T02. Salary.exe
+C:\Users\Mert\source\repos\Encapsulation - Lab\T02. Salary\bin\Debug\netcoreapp3.1\T02. Salary.deps.json
+C:\Users\Mert\source\repos\Encapsulation - Lab\T02. Salary\bin\Debug\netcoreapp3.1\T02. Salary.runtimeconfig.json
+C:\Users\Mert\source\repos\Encapsulation - Lab\T02. Salary\bin\Debug\netcoreapp3.1\T02. Salary.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Encapsulation - Lab\T02. Salary\bin\Debug\netcoreapp3.1\T02. Salary.dll
+C:\Users\Mert\source\repos\Encapsulation - Lab\T02. Salary\bin\Debug\netcoreapp3.1\T02. Salary.pdb
+C:\Users\Mert\source\repos\Encapsulation - Lab\T02. Salary\obj\Debug\netcoreapp3.1\T02. Salary.dll
+C:\Users\Mert\source\repos\Encapsulation - Lab\T02. Salary\obj\Debug\netcoreapp3.1\T02. Salary.pdb
+C:\Users\Mert\source\repos\Encapsulation - Lab\T02. Salary\obj\Debug\netcoreapp3.1\T02. Salary.genruntimeconfig.cache

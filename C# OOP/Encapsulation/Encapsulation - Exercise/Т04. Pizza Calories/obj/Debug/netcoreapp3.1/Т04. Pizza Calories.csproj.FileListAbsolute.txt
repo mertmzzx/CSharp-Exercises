@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Encapsulation - Exercise\Т04. Pizza Calories\bin\Debug\netcoreapp3.1\Т04. Pizza Calories.exe
+C:\Users\Mert\source\repos\Encapsulation - Exercise\Т04. Pizza Calories\bin\Debug\netcoreapp3.1\Т04. Pizza Calories.deps.json
+C:\Users\Mert\source\repos\Encapsulation - Exercise\Т04. Pizza Calories\bin\Debug\netcoreapp3.1\Т04. Pizza Calories.runtimeconfig.json
+C:\Users\Mert\source\repos\Encapsulation - Exercise\Т04. Pizza Calories\bin\Debug\netcoreapp3.1\Т04. Pizza Calories.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Encapsulation - Exercise\Т04. Pizza Calories\bin\Debug\netcoreapp3.1\Т04. Pizza Calories.dll
+C:\Users\Mert\source\repos\Encapsulation - Exercise\Т04. Pizza Calories\bin\Debug\netcoreapp3.1\Т04. Pizza Calories.pdb
+C:\Users\Mert\source\repos\Encapsulation - Exercise\Т04. Pizza Calories\obj\Debug\netcoreapp3.1\Т04. Pizza Calories.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Encapsulation - Exercise\Т04. Pizza Calories\obj\Debug\netcoreapp3.1\Т04. Pizza Calories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Encapsulation - Exercise\Т04. Pizza Calories\obj\Debug\netcoreapp3.1\Т04. Pizza Calories.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Encapsulation - Exercise\Т04. Pizza Calories\obj\Debug\netcoreapp3.1\Т04. Pizza Calories.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Encapsulation - Exercise\Т04. Pizza Calories\obj\Debug\netcoreapp3.1\Т04. Pizza Calories.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Encapsulation - Exercise\Т04. Pizza Calories\obj\Debug\netcoreapp3.1\Т04. Pizza Calories.dll
+C:\Users\Mert\source\repos\Encapsulation - Exercise\Т04. Pizza Calories\obj\Debug\netcoreapp3.1\Т04. Pizza Calories.pdb
+C:\Users\Mert\source\repos\Encapsulation - Exercise\Т04. Pizza Calories\obj\Debug\netcoreapp3.1\Т04. Pizza Calories.genruntimeconfig.cache

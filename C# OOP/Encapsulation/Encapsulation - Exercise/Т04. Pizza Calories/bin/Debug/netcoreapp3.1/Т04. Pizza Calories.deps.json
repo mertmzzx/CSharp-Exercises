@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Т04. Pizza Calories/1.0.0": {
+        "runtime": {
+          "Т04. Pizza Calories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Т04. Pizza Calories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T02. Animal Farm\bin\Debug\netcoreapp3.1\T02. Animal Farm.exe
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T02. Animal Farm\bin\Debug\netcoreapp3.1\T02. Animal Farm.deps.json
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T02. Animal Farm\bin\Debug\netcoreapp3.1\T02. Animal Farm.runtimeconfig.json
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T02. Animal Farm\bin\Debug\netcoreapp3.1\T02. Animal Farm.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T02. Animal Farm\bin\Debug\netcoreapp3.1\T02. Animal Farm.dll
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T02. Animal Farm\bin\Debug\netcoreapp3.1\T02. Animal Farm.pdb
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T02. Animal Farm\obj\Debug\netcoreapp3.1\T02. Animal Farm.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T02. Animal Farm\obj\Debug\netcoreapp3.1\T02. Animal Farm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T02. Animal Farm\obj\Debug\netcoreapp3.1\T02. Animal Farm.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T02. Animal Farm\obj\Debug\netcoreapp3.1\T02. Animal Farm.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T02. Animal Farm\obj\Debug\netcoreapp3.1\T02. Animal Farm.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T02. Animal Farm\obj\Debug\netcoreapp3.1\T02. Animal Farm.dll
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T02. Animal Farm\obj\Debug\netcoreapp3.1\T02. Animal Farm.pdb
+C:\Users\Mert\source\repos\Encapsulation - Exercise\T02. Animal Farm\obj\Debug\netcoreapp3.1\T02. Animal Farm.genruntimeconfig.cache

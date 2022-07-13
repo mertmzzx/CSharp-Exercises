@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Encapsulation - Lab\T03. Validation\bin\Debug\netcoreapp3.1\T03. Validation.exe
+C:\Users\Mert\source\repos\Encapsulation - Lab\T03. Validation\bin\Debug\netcoreapp3.1\T03. Validation.deps.json
+C:\Users\Mert\source\repos\Encapsulation - Lab\T03. Validation\bin\Debug\netcoreapp3.1\T03. Validation.runtimeconfig.json
+C:\Users\Mert\source\repos\Encapsulation - Lab\T03. Validation\bin\Debug\netcoreapp3.1\T03. Validation.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Encapsulation - Lab\T03. Validation\bin\Debug\netcoreapp3.1\T03. Validation.dll
+C:\Users\Mert\source\repos\Encapsulation - Lab\T03. Validation\bin\Debug\netcoreapp3.1\T03. Validation.pdb
+C:\Users\Mert\source\repos\Encapsulation - Lab\T03. Validation\obj\Debug\netcoreapp3.1\T03. Validation.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Encapsulation - Lab\T03. Validation\obj\Debug\netcoreapp3.1\T03. Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Encapsulation - Lab\T03. Validation\obj\Debug\netcoreapp3.1\T03. Validation.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Encapsulation - Lab\T03. Validation\obj\Debug\netcoreapp3.1\T03. Validation.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Encapsulation - Lab\T03. Validation\obj\Debug\netcoreapp3.1\T03. Validation.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Encapsulation - Lab\T03. Validation\obj\Debug\netcoreapp3.1\T03. Validation.dll
+C:\Users\Mert\source\repos\Encapsulation - Lab\T03. Validation\obj\Debug\netcoreapp3.1\T03. Validation.pdb
+C:\Users\Mert\source\repos\Encapsulation - Lab\T03. Validation\obj\Debug\netcoreapp3.1\T03. Validation.genruntimeconfig.cache
