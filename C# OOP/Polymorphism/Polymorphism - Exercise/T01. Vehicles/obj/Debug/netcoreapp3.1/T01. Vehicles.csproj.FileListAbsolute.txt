@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Polymorphism - Exercise\T01. Vehicles\bin\Debug\netcoreapp3.1\T01. Vehicles.exe
+C:\Users\Mert\source\repos\Polymorphism - Exercise\T01. Vehicles\bin\Debug\netcoreapp3.1\T01. Vehicles.deps.json
+C:\Users\Mert\source\repos\Polymorphism - Exercise\T01. Vehicles\bin\Debug\netcoreapp3.1\T01. Vehicles.runtimeconfig.json
+C:\Users\Mert\source\repos\Polymorphism - Exercise\T01. Vehicles\bin\Debug\netcoreapp3.1\T01. Vehicles.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Polymorphism - Exercise\T01. Vehicles\bin\Debug\netcoreapp3.1\T01. Vehicles.dll
+C:\Users\Mert\source\repos\Polymorphism - Exercise\T01. Vehicles\bin\Debug\netcoreapp3.1\T01. Vehicles.pdb
+C:\Users\Mert\source\repos\Polymorphism - Exercise\T01. Vehicles\obj\Debug\netcoreapp3.1\T01. Vehicles.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Polymorphism - Exercise\T01. Vehicles\obj\Debug\netcoreapp3.1\T01. Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Polymorphism - Exercise\T01. Vehicles\obj\Debug\netcoreapp3.1\T01. Vehicles.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Polymorphism - Exercise\T01. Vehicles\obj\Debug\netcoreapp3.1\T01. Vehicles.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Polymorphism - Exercise\T01. Vehicles\obj\Debug\netcoreapp3.1\T01. Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Polymorphism - Exercise\T01. Vehicles\obj\Debug\netcoreapp3.1\T01. Vehicles.dll
+C:\Users\Mert\source\repos\Polymorphism - Exercise\T01. Vehicles\obj\Debug\netcoreapp3.1\T01. Vehicles.pdb
+C:\Users\Mert\source\repos\Polymorphism - Exercise\T01. Vehicles\obj\Debug\netcoreapp3.1\T01. Vehicles.genruntimeconfig.cache
