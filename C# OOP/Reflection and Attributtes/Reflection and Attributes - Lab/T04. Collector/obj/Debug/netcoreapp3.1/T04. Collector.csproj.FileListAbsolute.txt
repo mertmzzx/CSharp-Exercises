@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T04. Collector\bin\Debug\netcoreapp3.1\T04. Collector.exe
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T04. Collector\bin\Debug\netcoreapp3.1\T04. Collector.deps.json
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T04. Collector\bin\Debug\netcoreapp3.1\T04. Collector.runtimeconfig.json
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T04. Collector\bin\Debug\netcoreapp3.1\T04. Collector.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T04. Collector\bin\Debug\netcoreapp3.1\T04. Collector.dll
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T04. Collector\bin\Debug\netcoreapp3.1\T04. Collector.pdb
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T04. Collector\obj\Debug\netcoreapp3.1\T04. Collector.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T04. Collector\obj\Debug\netcoreapp3.1\T04. Collector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T04. Collector\obj\Debug\netcoreapp3.1\T04. Collector.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T04. Collector\obj\Debug\netcoreapp3.1\T04. Collector.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T04. Collector\obj\Debug\netcoreapp3.1\T04. Collector.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T04. Collector\obj\Debug\netcoreapp3.1\T04. Collector.dll
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T04. Collector\obj\Debug\netcoreapp3.1\T04. Collector.pdb
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T04. Collector\obj\Debug\netcoreapp3.1\T04. Collector.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T06. Code Tracker\bin\Debug\netcoreapp3.1\T06. Code Tracker.exe
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T06. Code Tracker\bin\Debug\netcoreapp3.1\T06. Code Tracker.deps.json
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T06. Code Tracker\bin\Debug\netcoreapp3.1\T06. Code Tracker.runtimeconfig.json
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T06. Code Tracker\bin\Debug\netcoreapp3.1\T06. Code Tracker.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T06. Code Tracker\bin\Debug\netcoreapp3.1\T06. Code Tracker.dll
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T06. Code Tracker\bin\Debug\netcoreapp3.1\T06. Code Tracker.pdb
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T06. Code Tracker\obj\Debug\netcoreapp3.1\T06. Code Tracker.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T06. Code Tracker\obj\Debug\netcoreapp3.1\T06. Code Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T06. Code Tracker\obj\Debug\netcoreapp3.1\T06. Code Tracker.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T06. Code Tracker\obj\Debug\netcoreapp3.1\T06. Code Tracker.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T06. Code Tracker\obj\Debug\netcoreapp3.1\T06. Code Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T06. Code Tracker\obj\Debug\netcoreapp3.1\T06. Code Tracker.dll
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T06. Code Tracker\obj\Debug\netcoreapp3.1\T06. Code Tracker.pdb
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T06. Code Tracker\obj\Debug\netcoreapp3.1\T06. Code Tracker.genruntimeconfig.cache

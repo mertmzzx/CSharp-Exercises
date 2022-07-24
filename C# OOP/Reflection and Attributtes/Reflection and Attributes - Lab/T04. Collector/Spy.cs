@@ -1,0 +1,96 @@
+﻿namespace Stealer4
+{
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Reflection;
+    using System.Text;
+
+    public class Spy
+    {
+        private string classToInvestigate;
+        private string[] fieldsToInvestigate;
+
+        public string StealFieldInfo(string className, params string[] fields)
+        {
+            Type classType = Type.GetType(className);
+
+            FieldInfo[] fieldsUnderInvestigation = classType.GetFields(BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
+
+            Object classInstance = Activator.CreateInstance(classType, new object[] { });
+
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"Class under investigation: {className}");
+
+            foreach (var field in fieldsUnderInvestigation.Where(f => fields.Contains(f.Name)))
+            {
+                sb.AppendLine($"{field.Name} = {field.GetValue(classInstance)}");
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+        public string AnalyzeAccessModifiers(string className)
+        {
+            Type classType = Type.GetType(className);
+            FieldInfo[] classFields = classType.GetFields(BindingFlags.Instance | BindingFlags.Static | BindingFlags.Public);
+            MethodInfo[] classPublicMethods = classType.GetMethods(BindingFlags.Instance | BindingFlags.Public);
+            MethodInfo[] classNonPublicMethods = classType.GetMethods(BindingFlags.Instance | BindingFlags.NonPublic);
+
+            StringBuilder sb = new StringBuilder();
+
+            foreach (var field in classFields)
+            {
+                sb.AppendLine($"{field.Name} must be private!");
+            }
+            foreach (var method in classNonPublicMethods.Where(m => m.Name.StartsWith("get")))
+            {
+                sb.AppendLine($"{method.Name} have to be public!");
+            }
+            foreach (var method in classPublicMethods.Where(m => m.Name.StartsWith("set")))
+            {
+                sb.AppendLine($"{method.Name} have to be private!");
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+        public string RevealPrivateMethods(string className)
+        {
+            Type classtype = Type.GetType(className);
+            MethodInfo[] classMethods = classtype.GetMethods(BindingFlags.Instance | BindingFlags.NonPublic);
+
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"All Private Methods of Class: {className}");
+            sb.AppendLine($"Base Class: {classtype.BaseType.Name}");
+
+            foreach (var method in classMethods)
+            {
+                sb.AppendLine(method.Name);
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+        public string CollectGettersAndSetters(string className)
+        {
+            Type classtype = Type.GetType(className);
+            MethodInfo[] classMethods = classtype.GetMethods(BindingFlags.Instance | BindingFlags.NonPublic | BindingFlags.Public);
+
+            StringBuilder sb = new StringBuilder();
+
+            foreach (var method in classMethods.Where(m => m.Name.StartsWith("get")))
+            {
+                sb.AppendLine($"{method.Name} will return {method.ReturnType}");
+            }
+            foreach (var method in classMethods.Where(m => m.Name.StartsWith("set")))
+            {
+                sb.AppendLine($"{method.Name} will set field of {method.GetParameters().First().ParameterType}");
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+    }
+}

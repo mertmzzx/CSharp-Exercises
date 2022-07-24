@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T02. High Quality Mistakes\bin\Debug\netcoreapp3.1\T02. High Quality Mistakes.exe
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T02. High Quality Mistakes\bin\Debug\netcoreapp3.1\T02. High Quality Mistakes.deps.json
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T02. High Quality Mistakes\bin\Debug\netcoreapp3.1\T02. High Quality Mistakes.runtimeconfig.json
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T02. High Quality Mistakes\bin\Debug\netcoreapp3.1\T02. High Quality Mistakes.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T02. High Quality Mistakes\bin\Debug\netcoreapp3.1\T02. High Quality Mistakes.dll
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T02. High Quality Mistakes\bin\Debug\netcoreapp3.1\T02. High Quality Mistakes.pdb
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T02. High Quality Mistakes\obj\Debug\netcoreapp3.1\T02. High Quality Mistakes.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T02. High Quality Mistakes\obj\Debug\netcoreapp3.1\T02. High Quality Mistakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T02. High Quality Mistakes\obj\Debug\netcoreapp3.1\T02. High Quality Mistakes.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T02. High Quality Mistakes\obj\Debug\netcoreapp3.1\T02. High Quality Mistakes.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T02. High Quality Mistakes\obj\Debug\netcoreapp3.1\T02. High Quality Mistakes.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T02. High Quality Mistakes\obj\Debug\netcoreapp3.1\T02. High Quality Mistakes.dll
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T02. High Quality Mistakes\obj\Debug\netcoreapp3.1\T02. High Quality Mistakes.pdb
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T02. High Quality Mistakes\obj\Debug\netcoreapp3.1\T02. High Quality Mistakes.genruntimeconfig.cache

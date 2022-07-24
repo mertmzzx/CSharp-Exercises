@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T01. Stealer\bin\Debug\netcoreapp3.1\T01. Stealer.exe
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T01. Stealer\bin\Debug\netcoreapp3.1\T01. Stealer.deps.json
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T01. Stealer\bin\Debug\netcoreapp3.1\T01. Stealer.runtimeconfig.json
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T01. Stealer\bin\Debug\netcoreapp3.1\T01. Stealer.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T01. Stealer\bin\Debug\netcoreapp3.1\T01. Stealer.dll
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T01. Stealer\bin\Debug\netcoreapp3.1\T01. Stealer.pdb
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T01. Stealer\obj\Debug\netcoreapp3.1\T01. Stealer.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T01. Stealer\obj\Debug\netcoreapp3.1\T01. Stealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T01. Stealer\obj\Debug\netcoreapp3.1\T01. Stealer.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T01. Stealer\obj\Debug\netcoreapp3.1\T01. Stealer.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T01. Stealer\obj\Debug\netcoreapp3.1\T01. Stealer.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T01. Stealer\obj\Debug\netcoreapp3.1\T01. Stealer.dll
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T01. Stealer\obj\Debug\netcoreapp3.1\T01. Stealer.pdb
+C:\Users\Mert\source\repos\Reflection and Attributes - Lab\T01. Stealer\obj\Debug\netcoreapp3.1\T01. Stealer.genruntimeconfig.cache
