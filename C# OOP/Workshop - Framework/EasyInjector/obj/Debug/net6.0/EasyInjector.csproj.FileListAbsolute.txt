@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\Workshop - Framework\EasyInjector\bin\Debug\net6.0\EasyInjector.deps.json
+C:\Users\Mert\source\repos\Workshop - Framework\EasyInjector\bin\Debug\net6.0\EasyInjector.dll
+C:\Users\Mert\source\repos\Workshop - Framework\EasyInjector\bin\Debug\net6.0\EasyInjector.pdb
+C:\Users\Mert\source\repos\Workshop - Framework\EasyInjector\obj\Debug\net6.0\EasyInjector.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Workshop - Framework\EasyInjector\obj\Debug\net6.0\EasyInjector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Workshop - Framework\EasyInjector\obj\Debug\net6.0\EasyInjector.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Workshop - Framework\EasyInjector\obj\Debug\net6.0\EasyInjector.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Workshop - Framework\EasyInjector\obj\Debug\net6.0\EasyInjector.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Workshop - Framework\EasyInjector\obj\Debug\net6.0\EasyInjector.dll
+C:\Users\Mert\source\repos\Workshop - Framework\EasyInjector\obj\Debug\net6.0\refint\EasyInjector.dll
+C:\Users\Mert\source\repos\Workshop - Framework\EasyInjector\obj\Debug\net6.0\EasyInjector.pdb
+C:\Users\Mert\source\repos\Workshop - Framework\EasyInjector\obj\Debug\net6.0\ref\EasyInjector.dll
