@@ -1,4 +1,4 @@
-# SoftUni-Exercises
+# SoftUni-Exercises-With-C#
 The problems' solutions uploaded here are coded by the author of this repostinary. 
 They are intended **only** for educational purposes.
 
