@@ -42,3 +42,9 @@ They are intended **only** for educational purposes.
 
 ------------------
 ### OOP
+**1.** [Inheritance](https://github.com/mertmzzx/CSharp-Exercises/tree/main/C%23%20OOP/Inheritance)<br />
+**2.** [Encapsulation](https://github.com/mertmzzx/CSharp-Exercises/tree/main/C%23%20OOP/Encapsulation)<br />
+**3.** [Interfaces and Abstraction](https://github.com/mertmzzx/CSharp-Exercises/tree/main/C%23%20OOP/Interfaces%20and%20Abstraction)<br />
+**4.** [Polymorphism](https://github.com/mertmzzx/CSharp-Exercises/tree/main/C%23%20OOP/Polymorphism)<br />
+**5.** [Reflection and Attributes](https://github.com/mertmzzx/CSharp-Exercises/tree/main/C%23%20OOP/Reflection%20and%20Attributtes)<br />
+**6.** [Unit Testing](https://github.com/mertmzzx/CSharp-Exercises/tree/main/C%23%20OOP/Unit%20Testing)<br />
