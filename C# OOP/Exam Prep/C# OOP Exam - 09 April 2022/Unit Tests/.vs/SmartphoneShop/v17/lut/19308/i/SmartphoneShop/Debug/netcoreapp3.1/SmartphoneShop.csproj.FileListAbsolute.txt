@@ -1,0 +1,12 @@
+C:\Users\Mert\Desktop\SmartphoneShop\.vs\SmartphoneShop\v17\lut\0\b\SmartphoneShop\Debug\netcoreapp3.1\SmartphoneShop.exe
+C:\Users\Mert\Desktop\SmartphoneShop\.vs\SmartphoneShop\v17\lut\0\b\SmartphoneShop\Debug\netcoreapp3.1\SmartphoneShop.deps.json
+C:\Users\Mert\Desktop\SmartphoneShop\.vs\SmartphoneShop\v17\lut\0\b\SmartphoneShop\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.json
+C:\Users\Mert\Desktop\SmartphoneShop\.vs\SmartphoneShop\v17\lut\0\b\SmartphoneShop\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.dev.json
+C:\Users\Mert\Desktop\SmartphoneShop\.vs\SmartphoneShop\v17\lut\0\b\SmartphoneShop\Debug\netcoreapp3.1\SmartphoneShop.dll
+C:\Users\Mert\Desktop\SmartphoneShop\.vs\SmartphoneShop\v17\lut\0\i\SmartphoneShop\Debug\netcoreapp3.1\SmartphoneShop.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\SmartphoneShop\.vs\SmartphoneShop\v17\lut\0\i\SmartphoneShop\Debug\netcoreapp3.1\SmartphoneShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\SmartphoneShop\.vs\SmartphoneShop\v17\lut\0\i\SmartphoneShop\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\SmartphoneShop\.vs\SmartphoneShop\v17\lut\0\i\SmartphoneShop\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfo.cs
+C:\Users\Mert\Desktop\SmartphoneShop\.vs\SmartphoneShop\v17\lut\0\i\SmartphoneShop\Debug\netcoreapp3.1\SmartphoneShop.csproj.CopyComplete
+C:\Users\Mert\Desktop\SmartphoneShop\.vs\SmartphoneShop\v17\lut\0\i\SmartphoneShop\Debug\netcoreapp3.1\SmartphoneShop.dll
+C:\Users\Mert\Desktop\SmartphoneShop\.vs\SmartphoneShop\v17\lut\0\i\SmartphoneShop\Debug\netcoreapp3.1\SmartphoneShop.genruntimeconfig.cache

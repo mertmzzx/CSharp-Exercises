@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ly/l3LSWtdQsaZQkvXDoXIZJ86DoFc+DzQfhqdzL6X3cru9jLpZmt7/lQndD3QYFnqzHvS8HFcy8IveVZAw4AA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mert\\source\\repos\\Exam Prep\\C# OOP Exam - 10 April 2021\\Unit Tests\\Aquariums\\Aquariums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

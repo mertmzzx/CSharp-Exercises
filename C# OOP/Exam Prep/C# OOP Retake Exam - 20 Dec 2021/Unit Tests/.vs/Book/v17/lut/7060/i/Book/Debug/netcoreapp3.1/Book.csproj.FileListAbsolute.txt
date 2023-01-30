@@ -1,0 +1,12 @@
+C:\Users\Mert\Desktop\BookSkeleton\.vs\Book\v17\lut\0\b\Book\Debug\netcoreapp3.1\Book.exe
+C:\Users\Mert\Desktop\BookSkeleton\.vs\Book\v17\lut\0\b\Book\Debug\netcoreapp3.1\Book.deps.json
+C:\Users\Mert\Desktop\BookSkeleton\.vs\Book\v17\lut\0\b\Book\Debug\netcoreapp3.1\Book.runtimeconfig.json
+C:\Users\Mert\Desktop\BookSkeleton\.vs\Book\v17\lut\0\b\Book\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+C:\Users\Mert\Desktop\BookSkeleton\.vs\Book\v17\lut\0\b\Book\Debug\netcoreapp3.1\Book.dll
+C:\Users\Mert\Desktop\BookSkeleton\.vs\Book\v17\lut\0\i\Book\Debug\netcoreapp3.1\Book.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\BookSkeleton\.vs\Book\v17\lut\0\i\Book\Debug\netcoreapp3.1\Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\BookSkeleton\.vs\Book\v17\lut\0\i\Book\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\BookSkeleton\.vs\Book\v17\lut\0\i\Book\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+C:\Users\Mert\Desktop\BookSkeleton\.vs\Book\v17\lut\0\i\Book\Debug\netcoreapp3.1\Book.csproj.CopyComplete
+C:\Users\Mert\Desktop\BookSkeleton\.vs\Book\v17\lut\0\i\Book\Debug\netcoreapp3.1\Book.dll
+C:\Users\Mert\Desktop\BookSkeleton\.vs\Book\v17\lut\0\i\Book\Debug\netcoreapp3.1\Book.genruntimeconfig.cache

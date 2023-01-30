@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\Exam Prep\C# OOP Exam - 10 April 2021\Unit Tests\.vs\Aquariums\v17\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.exe
+C:\Users\Mert\source\repos\Exam Prep\C# OOP Exam - 10 April 2021\Unit Tests\.vs\Aquariums\v17\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.deps.json
+C:\Users\Mert\source\repos\Exam Prep\C# OOP Exam - 10 April 2021\Unit Tests\.vs\Aquariums\v17\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+C:\Users\Mert\source\repos\Exam Prep\C# OOP Exam - 10 April 2021\Unit Tests\.vs\Aquariums\v17\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\Exam Prep\C# OOP Exam - 10 April 2021\Unit Tests\.vs\Aquariums\v17\lut\0\b\Aquariums\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\Mert\source\repos\Exam Prep\C# OOP Exam - 10 April 2021\Unit Tests\.vs\Aquariums\v17\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\Exam Prep\C# OOP Exam - 10 April 2021\Unit Tests\.vs\Aquariums\v17\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Exam Prep\C# OOP Exam - 10 April 2021\Unit Tests\.vs\Aquariums\v17\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Exam Prep\C# OOP Exam - 10 April 2021\Unit Tests\.vs\Aquariums\v17\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Exam Prep\C# OOP Exam - 10 April 2021\Unit Tests\.vs\Aquariums\v17\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.csproj.CopyComplete
+C:\Users\Mert\source\repos\Exam Prep\C# OOP Exam - 10 April 2021\Unit Tests\.vs\Aquariums\v17\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\Mert\source\repos\Exam Prep\C# OOP Exam - 10 April 2021\Unit Tests\.vs\Aquariums\v17\lut\0\i\Aquariums\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache
