@@ -51,3 +51,11 @@ They are intended **only** for educational purposes.
 
 ------------------
 ### DB
+#### &nbsp;   &nbsp;   &nbsp;   &nbsp;   MS SQL
+   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;**1.** [CRUD](https://github.com/mertmzzx/CSharp-Exercises/tree/main/C%23%20DB/MS%20SQL/CRUD)<br />
+   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;**2.** [Table Relations](https://github.com/mertmzzx/CSharp-Exercises/tree/main/C%23%20DB/MS%20SQL/Table%20Relations)<br />
+   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;**3.** [Built-in Functions](https://github.com/mertmzzx/CSharp-Exercises/tree/main/C%23%20DB/MS%20SQL/Built-in%20Functions)<br />
+   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;**4.** [Subqueries and Joins](https://github.com/mertmzzx/CSharp-Exercises/tree/main/C%23%20DB/MS%20SQL/Subqueries%20and%20Joins)<br />
+   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;**5.** [Indices and Data Aggregation](https://github.com/mertmzzx/CSharp-Exercises/tree/main/C%23%20DB/MS%20SQL/Indices%20and%20Data%20Aggregation)<br />
+   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;**6.** [Functions and Stored Procedures](https://github.com/mertmzzx/CSharp-Exercises/tree/main/C%23%20DB/MS%20SQL/Functions%2C%20Procedures%2C%20Triggers%20and%20Transactions)<br />
+
