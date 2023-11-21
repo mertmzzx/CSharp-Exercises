@@ -1,0 +1,512 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Repository\\C# DB\\Entity Framework Core\\Auto Mapping Objects\\FastFood.Web\\FastFood.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Common\\FastFood.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Common\\FastFood.Common.csproj",
+        "projectName": "FastFood.Common",
+        "projectPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Common\\FastFood.Common.csproj",
+        "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Data\\FastFood.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Data\\FastFood.Data.csproj",
+        "projectName": "FastFood.Data",
+        "projectPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Data\\FastFood.Data.csproj",
+        "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Common\\FastFood.Common.csproj": {
+                "projectPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Common\\FastFood.Common.csproj"
+              },
+              "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Models\\FastFood.Models.csproj": {
+                "projectPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Models\\FastFood.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Models\\FastFood.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Models\\FastFood.Models.csproj",
+        "projectName": "FastFood.Models",
+        "projectPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Models\\FastFood.Models.csproj",
+        "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Common\\FastFood.Common.csproj": {
+                "projectPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Common\\FastFood.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Services.Data\\FastFood.Services.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Services.Data\\FastFood.Services.Data.csproj",
+        "projectName": "FastFood.Services.Data",
+        "projectPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Services.Data\\FastFood.Services.Data.csproj",
+        "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Services.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Services.Mapping\\FastFood.Services.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Services.Mapping\\FastFood.Services.Mapping.csproj",
+        "projectName": "FastFood.Services.Mapping",
+        "projectPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Services.Mapping\\FastFood.Services.Mapping.csproj",
+        "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Services.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Models\\FastFood.Models.csproj": {
+                "projectPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Models\\FastFood.Models.csproj"
+              },
+              "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Web.ViewModels\\FastFood.Web.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Web.ViewModels\\FastFood.Web.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Web.ViewModels\\FastFood.Web.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Web.ViewModels\\FastFood.Web.ViewModels.csproj",
+        "projectName": "FastFood.Web.ViewModels",
+        "projectPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Web.ViewModels\\FastFood.Web.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Web.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Repository\\C# DB\\Entity Framework Core\\Auto Mapping Objects\\FastFood.Web\\FastFood.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Repository\\C# DB\\Entity Framework Core\\Auto Mapping Objects\\FastFood.Web\\FastFood.Web.csproj",
+        "projectName": "FastFood.Web",
+        "projectPath": "E:\\Repository\\C# DB\\Entity Framework Core\\Auto Mapping Objects\\FastFood.Web\\FastFood.Web.csproj",
+        "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
+        "outputPath": "E:\\Repository\\C# DB\\Entity Framework Core\\Auto Mapping Objects\\FastFood.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Data\\FastFood.Data.csproj": {
+                "projectPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Data\\FastFood.Data.csproj"
+              },
+              "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Services.Data\\FastFood.Services.Data.csproj": {
+                "projectPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Services.Data\\FastFood.Services.Data.csproj"
+              },
+              "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Services.Mapping\\FastFood.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Services.Mapping\\FastFood.Services.Mapping.csproj"
+              },
+              "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Web": {
+                "projectPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Web"
+              },
+              "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Web.ViewModels\\FastFood.Web.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Mert\\Desktop\\07.Auto-Mapping-Objects-Exercises-FastFood-6.0\\FastFood.Web.ViewModels\\FastFood.Web.ViewModels.csproj"
+              },
+              "E:\\Repository\\C# DB\\Entity Framework Core\\Auto Mapping Objects\\FastFood.Data\\FastFood.Data.csproj": {
+                "projectPath": "E:\\Repository\\C# DB\\Entity Framework Core\\Auto Mapping Objects\\FastFood.Data\\FastFood.Data.csproj"
+              },
+              "E:\\Repository\\C# DB\\Entity Framework Core\\Auto Mapping Objects\\FastFood.Services.Data\\FastFood.Services.Data.csproj": {
+                "projectPath": "E:\\Repository\\C# DB\\Entity Framework Core\\Auto Mapping Objects\\FastFood.Services.Data\\FastFood.Services.Data.csproj"
+              },
+              "E:\\Repository\\C# DB\\Entity Framework Core\\Auto Mapping Objects\\FastFood.Services.Mapping\\FastFood.Services.Mapping.csproj": {
+                "projectPath": "E:\\Repository\\C# DB\\Entity Framework Core\\Auto Mapping Objects\\FastFood.Services.Mapping\\FastFood.Services.Mapping.csproj"
+              },
+              "E:\\Repository\\C# DB\\Entity Framework Core\\Auto Mapping Objects\\FastFood.Web.ViewModels\\FastFood.Web.ViewModels.csproj": {
+                "projectPath": "E:\\Repository\\C# DB\\Entity Framework Core\\Auto Mapping Objects\\FastFood.Web.ViewModels\\FastFood.Web.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FastFood.Web
+build_property.RootNamespace = FastFood.Web
+build_property.ProjectDir = E:\Repository\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Repository\C# DB\Entity Framework Core\Auto Mapping Objects\FastFood.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Repository/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Web/Views/Categories/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Repository/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Web/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Repository/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Web/Views/Employees/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Repository/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Web/Views/Employees/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Repository/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Repository/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Web/Views/Items/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Repository/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Web/Views/Items/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Repository/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Web/Views/Orders/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Repository/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Web/Views/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Repository/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Web/Views/Positions/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25zXEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Repository/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Web/Views/Positions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Repository/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Repository/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Web/Views/Shared/_CookieConsentPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db29raWVDb25zZW50UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Repository/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Repository/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Repository/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Repository/C\# DB/Entity Framework Core/Auto Mapping Objects/FastFood.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ut45lulht9

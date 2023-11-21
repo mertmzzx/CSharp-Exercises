@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6gqgDFPMaeWSkdC1CpI84vC1vlRDAn9jJZi1Oyr9+Hsd2lZ7K6idigp92sNhw1JweZAPbhms4/tgbAVUQgE0Og==",
+  "success": true,
+  "projectFilePath": "E:\\Repository\\C# DB\\Entity Framework Core\\Auto Mapping Objects\\FastFood.Services.Mapping\\FastFood.Services.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mert\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
